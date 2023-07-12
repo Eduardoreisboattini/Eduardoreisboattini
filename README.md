@@ -98,7 +98,7 @@ Contains useful resources, tutorials, and reference materials I have utilized du
 </a>
 
 <a href="http://expressjs.com/">
-  <img src="./ICONS/expressjs" alt="Express" width="45" height="45">
+  <img src="./ICONS/expressjs.png" alt="Express" width="45" height="45">
 </a>
 
 <a href="https://git-scm.com/">
@@ -122,7 +122,7 @@ Contains useful resources, tutorials, and reference materials I have utilized du
 </a>
 
 <a href="https://www.tensorflow.org/">
-  <img src="./ICONS/tensorflow.png" alt="Tensorflow" width="45" height="45">
+  <img src="./ICONS/Tensorflow.png" alt="Tensorflow" width="45" height="45">
 </a>
 
 
