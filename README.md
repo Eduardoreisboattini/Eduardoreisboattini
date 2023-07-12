@@ -72,7 +72,7 @@ Includes subdirectories for different projects I have completed, showcasing my a
 Contains useful resources, tutorials, and reference materials I have utilized during my learning journey.
 
 <h3>📖Languages and Tools</h3>
-<br>
+
 <a href="https://www.w3.org/">
   <img src="./ICONS/w3c.png" alt="w3" width="45" height="45">
 </a>
