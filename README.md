@@ -50,6 +50,29 @@ Welcome to the Self-Learning Programming Progress Tracker!<br>
 <br> 
 Through this project, I aim to document my progress, showcase the skills I have acquired, and provide insights into the projects I have completed.
 
+<h2>Motivation</h2>
+The motivation behind this project is to demonstrate my dedication and passion for programming.<br>
+💪 By embarking on this self-learning journey, I have honed my skills in various programming languages and technologies. 
+Through continuous learning, practice, and hands-on projects, I have deepened my understanding and expertise in the world of programming.
+
+<h2>Project Structure</h2>
+
+The repository is organized into the following directories:
+
+<h3>📚 #00 Programming Languages</h3>
+
+Contains subdirectories for each programming language I have learned, where you can find code snippets, exercises, and small projects demonstrating my proficiency in that particular language. Some of the languages I have acquired proficiency in include but are not limited to Python, JavaScript, Java, C++, and HTML/CSS. Each language directory within this repository provides examples and projects that demonstrate my knowledge and skills in that particular language.
+
+<h3>💡 #00 Projects</h3>
+
+Includes subdirectories for different projects I have completed, showcasing my ability to solve problems and create functional applications using various programming languages. Throughout my journey, I have undertaken several hands-on projects, ranging from small utilities and web applications to more complex algorithms and data structure implementations. The Projects directory includes a detailed description of each project, its purpose, and the technologies employed.
+
+<h3>📖 #00 Resources</h3>
+
+Contains useful resources, tutorials, and reference materials I have utilized during my learning journey.
+
+<h3>📖Languages and Tools</h3>
+<br>
 <a href="https://www.w3.org/">
   <img src="./ICONS/w3.png" alt="w3" width="45" height="45">
 </a>
@@ -105,28 +128,7 @@ Through this project, I aim to document my progress, showcase the skills I have 
 <a href="https://www.tensorflow.org/">
   <img src="./ICONS/tensorflow.png" alt="Tensorflow" width="45" height="45">
 </a>
-
-<h2>Motivation</h2>
-The motivation behind this project is to demonstrate my dedication and passion for programming.<br>
-💪 By embarking on this self-learning journey, I have honed my skills in various programming languages and technologies. 
-Through continuous learning, practice, and hands-on projects, I have deepened my understanding and expertise in the world of programming.
-
-<h2>Project Structure</h2>
-
-The repository is organized into the following directories:
-
-<h3>📚 #00 Programming Languages</h3>
-
-Contains subdirectories for each programming language I have learned, where you can find code snippets, exercises, and small projects demonstrating my proficiency in that particular language. Some of the languages I have acquired proficiency in include but are not limited to Python, JavaScript, Java, C++, and HTML/CSS. Each language directory within this repository provides examples and projects that demonstrate my knowledge and skills in that particular language.
-
-<h3>💡 #00 Projects</h3>
-
-Includes subdirectories for different projects I have completed, showcasing my ability to solve problems and create functional applications using various programming languages. Throughout my journey, I have undertaken several hands-on projects, ranging from small utilities and web applications to more complex algorithms and data structure implementations. The Projects directory includes a detailed description of each project, its purpose, and the technologies employed.
-
-<h3>📖 #00 Resources</h3>
-
-Contains useful resources, tutorials, and reference materials I have utilized during my learning journey.
-
+<br>
 <h3>⭐ #00 Progress Highlights</h3>
 
 Here are some of the key highlights of my self-learning programming journey:
