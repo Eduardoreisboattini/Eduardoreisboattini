@@ -184,11 +184,11 @@ Thank you for taking the time to explore my self-learning programming progress t
 This project reflects my dedication, determination, and love for programming. I am continuously growing and expanding my skill set, and I look forward to further challenges and opportunities that will fuel my learning journey.
 <br> <br>
 Happy coding!
-
+<br>
 <footer>
         <!-- Footer section with additional links and information -->
         <div class="footer-container">
-            <p>&copy; Eduardo Reis Boattini 2023 Online Course. All rights reserved.</p>
+            <p>&copy; 2023, Eduardo Reis Boattini - Online Course. All rights reserved.</p>
             <ul class="
             footer-menu">
                 <li><a href="#">Privacy Policy</a></li>
@@ -196,4 +196,7 @@ Happy coding!
                 <li><a href="#">Contact Us</a></li>
             </ul>
         </div>
+        <div class="footer-disclaimer">
+        <p>The information provided on this website is for general informational purposes only and does not constitute professional advice. Consult a qualified professional for specific guidance related to your situation.</p>
+    </div>
 </footer>
