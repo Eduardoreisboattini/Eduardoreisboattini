@@ -50,8 +50,63 @@ Welcome to the Self-Learning Programming Progress Tracker!<br>
 <br> 
 Through this project, I aim to document my progress, showcase the skills I have acquired, and provide insights into the projects I have completed.
 
-<h2>Motivation</h2>
+<a href="https://www.w3.org/">
+  <img src="./ICONS/w3.png" alt="w3" width="45" height="45">
+</a>
 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="./ICONS/javascript.png" alt="JavaScript" width="45" height="45">
+</a>
+
+<a href="https://react.dev/>
+  <img src="./ICONS/react.png" alt="React" width="45" height="45">
+</a>
+
+<a href="https://redux.js.org/">
+  <img src="./ICONS/redux.png" alt="Redux" width="45" height="45">
+</a>
+
+<a href="https://getbootstrap.com/">
+  <img src="./ICONS/bootstrap.png" alt="Bootstrap" width="45" height="45">
+</a>
+
+<a href="https://nodejs.org/en">
+  <img src="./ICONS/node.png" alt="Node" width="45" height="45">
+</a>
+
+<a href="https://www.linkedin.com/in/eduardoreisboattini/">
+  <img src="./ICONS/linkedin.png" alt="LinkedIn" width="45" height="45">
+</a>
+
+<a href="http://expressjs.com/">
+  <img src="./ICONS/expressjs" alt="Express" width="45" height="45">
+</a>
+
+<a href="https://git-scm.com/">
+  <img src="./ICONS/git.png" alt="Git" width="45" height="45">
+</a>
+
+<a href="https://www.mongodb.com/">
+  <img src="./ICONS/mongodb.png" alt="MongoDB" width="45" height="45">
+</a>
+
+<a href="https://www.mysql.com/">
+  <img src="./ICONS/mysql.png" alt="MySQL" width="45" height="45">
+</a>
+
+<a href="https://www.sqlite.org/index.html">
+  <img src="./ICONS/sqlite.png" alt="SQLite" width="45" height="45">
+</a>
+
+<a href="https://www.python.org/">
+  <img src="./ICONS/python.png" alt="Python" width="45" height="45">
+</a>
+
+<a href="https://www.tensorflow.org/">
+  <img src="./ICONS/tensorflow.png" alt="Tensorflow" width="45" height="45">
+</a>
+
+<h2>Motivation</h2>
 The motivation behind this project is to demonstrate my dedication and passion for programming.<br>
 💪 By embarking on this self-learning journey, I have honed my skills in various programming languages and technologies. 
 Through continuous learning, practice, and hands-on projects, I have deepened my understanding and expertise in the world of programming.
@@ -123,6 +178,7 @@ If you have any questions, want to collaborate, or simply discuss programming, p
   <img src="./ICONS/youtube.png" alt="YouTube" width="45" height="45">
 </a>
 
+<br>
 <h2>Conclusion</h2>
 Thank you for taking the time to explore my self-learning programming progress tracker. <br>
 This project reflects my dedication, determination, and love for programming. I am continuously growing and expanding my skill set, and I look forward to further challenges and opportunities that will fuel my learning journey.
