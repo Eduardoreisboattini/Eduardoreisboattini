@@ -36,7 +36,7 @@ You agree to indemnify, defend, and hold harmless Eduardo Reis Boattini and its 
 
 ## 7. Governing Law and Jurisdiction
 
-These Terms shall be governed by and construed in accordance with the laws of [Insert Jurisdiction]. Any legal action or proceeding arising out of or relating to these Terms or the use of the Repository shall be exclusively brought in the courts of [Insert Jurisdiction].
+These Terms shall be governed by and construed in accordance with the laws of Brazil. Any legal action or proceeding arising out of or relating to these Terms or the use of the Repository shall be exclusively brought in the courts of Brazil.
 
 ## 8. Changes to the Terms
 
@@ -44,7 +44,7 @@ We reserve the right to update or modify these Terms at any time without prior n
 
 ## 9. Contact Us
 
-If you have any questions, concerns, or requests regarding these Terms or the Repository, please contact us at [insert contact email].
+If you have any questions, concerns, or requests regarding these Terms or the Repository, please contact us at [eduardo.reis@unifesp.br].
 
 By accessing or using the Repository, you acknowledge that you have read and understood these Terms and agree to be bound by them.
 
