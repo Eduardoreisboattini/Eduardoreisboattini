@@ -182,21 +182,22 @@ If you have any questions, want to collaborate, or simply discuss programming, p
 <h2>Conclusion</h2>
 Thank you for taking the time to explore my self-learning programming progress tracker. <br>
 This project reflects my dedication, determination, and love for programming. I am continuously growing and expanding my skill set, and I look forward to further challenges and opportunities that will fuel my learning journey.
-<br> <br>
+<br>
+<br>
 Happy coding!
 <br>
-<footer>
+<br>
         <!-- Footer section with additional links and information -->
-        <div class="footer-container">
-            <p>&copy; 2023, Eduardo Reis Boattini - Online Course. All rights reserved.</p>
-            <ul class="
-            footer-menu">
-                <li><a href="#">Privacy Policy</a></li>
-                <li><a href="#">Terms of Service</a></li>
-                <li><a href=mailto: eduardo.reis@unifesp.br>Contact Us</a></li>
-            </ul>
-        </div>
-        <div class="footer-disclaimer">
+      <footer>
+    <div class="footer-container">
+        <p>&copy; 2023 Eduardo Reis Boattini - Online Course. All rights reserved.</p>
+        <ul class="footer-menu">
+            <li><a href="#">Privacy Policy</a></li>
+            <li><a href="#">Terms of Service</a></li>
+            <li><a href="mailto:eduardo.reis@unifesp.br">Contact Us</a></li>
+        </ul>
+    </div>
+    <div class="footer-disclaimer">
         <p>The information provided on this website is for general informational purposes only and does not constitute professional advice. Consult a qualified professional for specific guidance related to your situation.</p>
     </div>
 </footer>
