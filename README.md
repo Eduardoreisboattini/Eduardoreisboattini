@@ -192,8 +192,8 @@ Happy coding!
     <div class="footer-container">
         <p>&copy; 2023 Eduardo Reis Boattini - Online Course. All rights reserved.</p>
         <ul class="footer-menu">
-            <li><a href="#">Privacy Policy</a></li>
-            <li><a href="#">Terms of Service</a></li>
+            <li><a href="./PrivacyPolicy.md">Privacy Policy</a></li>
+            <li><a href="./TermsOfService.md">Terms of Service</a></li>
             <li><a href="mailto:eduardo.reis@unifesp.br">Contact Us</a></li>
         </ul>
     </div>
