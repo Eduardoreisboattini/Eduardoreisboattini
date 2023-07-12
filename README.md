@@ -74,7 +74,7 @@ Contains useful resources, tutorials, and reference materials I have utilized du
 <h3>📖Languages and Tools</h3>
 <br>
 <a href="https://www.w3.org/">
-  <img src="./ICONS/w3.png" alt="w3" width="45" height="45">
+  <img src="./ICONS/w3c.png" alt="w3" width="45" height="45">
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
