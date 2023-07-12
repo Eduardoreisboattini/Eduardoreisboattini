@@ -81,7 +81,7 @@ Contains useful resources, tutorials, and reference materials I have utilized du
   <img src="./ICONS/javascript.png" alt="JavaScript" width="45" height="45">
 </a>
 
-<a href="https://react.dev/>
+<a href="https://react.dev/">
   <img src="./ICONS/react.png" alt="React" width="45" height="45">
 </a>
 
@@ -94,11 +94,7 @@ Contains useful resources, tutorials, and reference materials I have utilized du
 </a>
 
 <a href="https://nodejs.org/en">
-  <img src="./ICONS/node.png" alt="Node" width="45" height="45">
-</a>
-
-<a href="https://www.linkedin.com/in/eduardoreisboattini/">
-  <img src="./ICONS/linkedin.png" alt="LinkedIn" width="45" height="45">
+  <img src="./ICONS/nodejs.png" alt="Node" width="45" height="45">
 </a>
 
 <a href="http://expressjs.com/">
@@ -128,6 +124,8 @@ Contains useful resources, tutorials, and reference materials I have utilized du
 <a href="https://www.tensorflow.org/">
   <img src="./ICONS/tensorflow.png" alt="Tensorflow" width="45" height="45">
 </a>
+
+
 <br>
 <h3>⭐ #00 Progress Highlights</h3>
 
