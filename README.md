@@ -121,7 +121,7 @@ Contains useful resources, tutorials, and reference materials I have utilized du
   <img src="./ICONS/Csharp.png" alt="C#" width="45" height="45">
 </a>
 
-<a href="https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170">
+<a href="https://learn.microsoft.com/en-us/cpp/cpp">
   <img src="./ICONS/C++.png" alt="C++" width="45" height="45">
 </a>
 
