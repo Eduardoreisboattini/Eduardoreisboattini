@@ -73,7 +73,7 @@ Contains useful resources, tutorials, and reference materials I have utilized du
 
 <h3>📖 #00 Languages and Tools</h3>
 
-<a href="https://www.w3c.org/">
+<a href="https://www.w3.org/">
   <img src="./ICONS/w3c.png" alt="W3C" width="45" height="45">
 </a>
 
