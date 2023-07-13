@@ -129,7 +129,6 @@ Contains useful resources, tutorials, and reference materials I have utilized du
   <img src="./ICONS/Tensorflow.png" alt="Tensorflow" width="45" height="45">
 </a>
 
-
 <br>
 <h3>⭐ #00 Progress Highlights</h3>
 
