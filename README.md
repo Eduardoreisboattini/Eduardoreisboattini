@@ -113,7 +113,7 @@ Contains useful resources, tutorials, and reference materials I have utilized du
   <img src="./ICONS/sqlite.png" alt="SQLite" width="45" height="45">
 </a>
 
-<a href="https://www.php.org/">
+<a href="https://www.php.net">
   <img src="./ICONS/php.png" alt="PHP" width="45" height="45">
 </a>
 
