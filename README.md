@@ -121,6 +121,10 @@ Contains useful resources, tutorials, and reference materials I have utilized du
   <img src="./ICONS/python.png" alt="Python" width="45" height="45">
 </a>
 
+<a href="https://www.php.org/">
+  <img src="./ICONS/php.png" alt="PHP" width="45" height="45">
+</a>
+
 <a href="https://www.tensorflow.org/">
   <img src="./ICONS/Tensorflow.png" alt="Tensorflow" width="45" height="45">
 </a>
