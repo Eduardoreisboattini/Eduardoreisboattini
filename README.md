@@ -73,8 +73,8 @@ Contains useful resources, tutorials, and reference materials I have utilized du
 
 <h3>📖 #00 Languages and Tools</h3>
 
-<a href="https://www.w3.org/">
-  <img src="./ICONS/w3c.png" alt="w3" width="45" height="45">
+<a href="https://www.w3c.org/">
+  <img src="./ICONS/w3c.png" alt="W3C" width="45" height="45">
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
@@ -87,10 +87,6 @@ Contains useful resources, tutorials, and reference materials I have utilized du
 
 <a href="https://redux.js.org/">
   <img src="./ICONS/redux.png" alt="Redux" width="45" height="45">
-</a>
-
-<a href="https://getbootstrap.com/">
-  <img src="./ICONS/bootstrap.png" alt="Bootstrap" width="45" height="45">
 </a>
 
 <a href="https://nodejs.org/en">
@@ -117,16 +113,20 @@ Contains useful resources, tutorials, and reference materials I have utilized du
   <img src="./ICONS/sqlite.png" alt="SQLite" width="45" height="45">
 </a>
 
-<a href="https://www.python.org/">
-  <img src="./ICONS/python.png" alt="Python" width="45" height="45">
-</a>
-
 <a href="https://www.php.org/">
   <img src="./ICONS/php.png" alt="PHP" width="45" height="45">
 </a>
 
 <a href="https://www.tensorflow.org/">
   <img src="./ICONS/Tensorflow.png" alt="Tensorflow" width="45" height="45">
+</a>
+
+<a href="https://getbootstrap.com/">
+  <img src="./ICONS/bootstrap.png" alt="Bootstrap" width="45" height="45">
+</a>
+
+<a href="https://www.python.org/">
+  <img src="./ICONS/python.png" alt="Python" width="45" height="45">
 </a>
 
 <br>
