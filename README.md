@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <a href="https://linkedin.com/in/eduardoreisboattini">
     <img src="./ICONS/linkedin.png" alt="LinkedIn" width="60" height="60">&nbsp;&nbsp;
   </a>
-  <a href="mailto:eduardo.reis@unifesp.br">
+  <a href="https://www.unifesp.br/campus/sjc">
     <img src="./ICONS/unifesp.png" alt="University Email" width="60" height="60">&nbsp;&nbsp;
   </a>
   <a href="mailto:edu_boa@hotmail.com">
