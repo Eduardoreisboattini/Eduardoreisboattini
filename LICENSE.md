@@ -1,6 +1,6 @@
-Creative Commons Legal Code
+<h1>Creative Commons Legal Code</h1>
 
-CC0 1.0 Universal
+<h2>CCC0 1.0 Universal</h2>
 
     CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE
     LEGAL SERVICES. DISTRIBUTION OF THIS DOCUMENT DOES NOT CREATE AN
@@ -11,7 +11,7 @@ CC0 1.0 Universal
     THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED
     HEREUNDER.
 
-Statement of Purpose
+<h2>Statement of Purpose</h2>
 
 The laws of most jurisdictions throughout the world automatically confer
 exclusive Copyright and Related Rights (defined below) upon the creator
