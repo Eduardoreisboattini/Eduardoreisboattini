@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <h1 align="center">GitHub PROJECT</h1>
 
 <p align="center">
-  <img src="./ICONS/Project_Logo.jpg" alt="Project Logo" width="200" height="200">
-</p>
+  <img src="./ICONS/Project_Logo.jpg" alt="Project Logo" width="200" height="200" style="border-radius:20%">
+</p>style="border-radius:20%"
 
 <p align="center">
   Self-Learning<br> Programming Progress Tracker<br>
@@ -32,19 +32,19 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://lnkd.in/dkmjaM9y">
-    <img src="./ICONS/follow_linkedin.png" alt="Follow me on Linkedin" width="120" height="60">&nbsp;&nbsp;
+    <img src="./ICONS/follow_linkedin.png" alt="Follow me on Linkedin" width="120" height="60" style="border-radius:20%">&nbsp;&nbsp;
   </a>
 </p>
 <br> 
 <p align="center">
   <a href="https://www.linkedin.com/in/eduardoreisboattini/">
-    <img src="./ICONS/linkedin.png" alt="LinkedIn" width="60" height="60">&nbsp;&nbsp;
+    <img src="./ICONS/linkedin.png" alt="LinkedIn" width="60" height="60" style="border-radius:20%">&nbsp;&nbsp;
   </a>
   <a href="https://www.unifesp.br/campus/sjc">
-    <img src="./ICONS/unifesp.png" alt="University Email" width="60" height="60">&nbsp;&nbsp;
+    <img src="./ICONS/unifesp.png" alt="University Email" width="60" height="60" style="border-radius:20%">&nbsp;&nbsp;
   </a>
   <a href="mailto:edu_boa@hotmail.com">
-    <img src="./ICONS/outlook.png" alt="Personal Email" width="60" height="60">&nbsp;&nbsp;
+    <img src="./ICONS/outlook.png" alt="Personal Email" width="60" height="60" style="border-radius:20%">&nbsp;&nbsp;
   </a>
 </p>
 
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 Welcome to the Self-Learning Programming Progress Tracker!<br>  
 <p align="center">
   <a href="https://github.com/Eduardoreisboattini/GitHub_PROJECT">
-    <img src="./IMAGES/github_cardtemplate.png" alt="Github Card Template" width="420" height="240">&nbsp;&nbsp;
+    <img src="./IMAGES/github_cardtemplate.png" alt="Github Card Template" width="420" height="240" style="border-radius:20%">&nbsp;&nbsp;
   </a>
 </p>
 🚀 This repository serves as a personal log of my journey in learning programming languages independently.
@@ -84,11 +84,11 @@ Contains useful resources, tutorials, and reference materials I have utilized du
 <h3>📖 #00 Languages and Tools</h3>
 
 <a href="https://www.w3.org/">
-  <img src="./ICONS/w3c.png" alt="W3C" width="45" height="45">
+  <img src="./ICONS/w3c.png" alt="W3C" width="45" height="45" style="border-radius:20%">
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="./ICONS/javascript.png" alt="JavaScript" width="45" height="45">
+  <img src="./ICONS/javascript.png" alt="JavaScript" width="45" height="45" style="border-radius:20%">
 </a>
 
 <a href="https://react.dev/">
