@@ -52,14 +52,12 @@ Here are some ideas to get you started:
 <h2>Introduction</h2>
 
 Welcome to the Self-Learning Programming Progress Tracker!<br>  
-<br>
 <p align="center">
   <a href="https://github.com/Eduardoreisboattini/GitHub_PROJECT">
     <img src="./IMAGES/github_cardtemplate.png" alt="Github Card Template" width="280" height="180">&nbsp;&nbsp;
   </a>
 </p>
 🚀 This repository serves as a personal log of my journey in learning programming languages independently.
-<br> 
 Through this project, I aim to document my progress, showcase the skills I have acquired, and provide insights into the projects I have completed.
 
 <h2>Motivation</h2>
