@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">GitHub PROJECT</h1>
 
 <p align="center">
-  <img src="./ICONS/Project_Logo.jpg" alt="Project Logo" width="200" height="200" style="border-radius:5%">&nbsp;&nbsp;
+  <img src="./ICONS/Project_Logo.jpg" alt="Project Logo" width="200" height="auto" style="border-radius:5%">&nbsp;&nbsp;
 </p>
 
 
@@ -33,19 +33,19 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://lnkd.in/dkmjaM9y">
-    <img src="./ICONS/follow_linkedin.png" alt="Follow me on Linkedin" width="120" height="60" style="border-radius:5%">
+    <img src="./ICONS/follow_linkedin.png" alt="Follow me on Linkedin" width="120" height="auto" style="border-radius:5%">
   </a>
 </p>
 <br> 
 <p align="center">
   <a href="https://www.linkedin.com/in/eduardoreisboattini/">
-    <img src="./ICONS/linkedin.png" alt="LinkedIn" width="60" height="60" style="border-radius:5%">&nbsp;&nbsp;
+    <img src="./ICONS/linkedin.png" alt="LinkedIn" width="60" height="auto" style="border-radius:5%">&nbsp;&nbsp;
   </a>
   <a href="https://www.unifesp.br/campus/sjc">
-    <img src="./ICONS/unifesp.png" alt="University Email" width="60" height="60" style="border-radius:5%">&nbsp;&nbsp;
+    <img src="./ICONS/unifesp.png" alt="University Email" width="60" height="auto" style="border-radius:5%">&nbsp;&nbsp;
   </a>
   <a href="mailto:edu_boa@hotmail.com">
-    <img src="./ICONS/outlook.png" alt="Personal Email" width="60" height="60" style="border-radius:5%">&nbsp;&nbsp;
+    <img src="./ICONS/outlook.png" alt="Personal Email" width="60" height="auto" style="border-radius:5%">&nbsp;&nbsp;
   </a>
 </p>
 
