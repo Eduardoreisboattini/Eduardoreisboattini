@@ -40,7 +40,7 @@ Here are some ideas to get you started:
  </p>
 <br> 
 <p align="center">
-  <a href="https://lnkd.in/dkmjaM9y">
+  <a href="https://www.linkedin.com/in/eduardoreisboattini/">
     <img src="./ICONS/linkedin.png" alt="LinkedIn" width="60" height="60">&nbsp;&nbsp;
   </a>
   <a href="https://www.unifesp.br/campus/sjc">
@@ -171,6 +171,8 @@ While this repository primarily serves as a personal log of my self-learning jou
 
 <h2>Contact</h2>
 If you have any questions, want to collaborate, or simply discuss programming, please feel free to reach out to me.<br> You can contact me via email or connect with me on LinkedIn.
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="eduardoreisboattini" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/eduardoreisboattini?trk=profile-badge">Eduardo R.</a></div>
+              
 <br>
 <br>
 
@@ -220,4 +222,5 @@ Happy coding!
     <div class="footer-disclaimer">
         <p>The information provided on this website is for general informational purposes only and does not constitute professional advice. Consult a qualified professional for specific guidance related to your situation.</p>
     </div>
+    <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 </footer>
