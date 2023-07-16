@@ -171,7 +171,9 @@ While this repository primarily serves as a personal log of my self-learning jou
 
 <h2>Contact</h2>
 If you have any questions, want to collaborate, or simply discuss programming, please feel free to reach out to me.<br> You can contact me via email or connect with me on LinkedIn.
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="eduardoreisboattini" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/eduardoreisboattini?trk=profile-badge">Eduardo R.</a></div>
+
+[![Eduardo R.](https://br.linkedin.com/in/eduardoreisboattini?trk=profile-badge)](https://br.linkedin.com/in/eduardoreisboattini?trk=profile-badge)
+
               
 <br>
 <br>
