@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="./ICONS/Project_Logo.jpg" alt="Project Logo" width="200" height="200" style="border-radius:50%">
-</p>style="border-radius:50%"
+</p>
+
 
 <p align="center">
   Self-Learning<br> Programming Progress Tracker<br>
