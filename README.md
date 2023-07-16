@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://lnkd.in/dkmjaM9y">
-    <img src="./ICONS/follow_linkedin.png" alt="Follow me on Linkedin" width="120" height="60" style="border-radius:5%">&nbsp;&nbsp;
+    <img src="./ICONS/follow_linkedin.png" alt="Follow me on Linkedin" width="120" height="60" style="border-radius:5%">
   </a>
 </p>
 <br> 
