@@ -1,6 +1,13 @@
 ### Hi there 👋, I'm Eduardo!
 📫 How to reach me: eduardo.reis@unifesp.br
-
+<p align="center">
+  <a href="https://lnkd.in/dkmjaM9y">
+    <img src="./ICONS/follow_linkedin.png" alt="Follow me on Linkedin" width="120" height="45">&nbsp;&nbsp;
+  </a>
+  <a href="https://www.unifesp.br/campus/sjc">
+    <img src="./ICONS/connect_linkedin.png" alt="Connect with me on Linkedin" width="120" height="45">&nbsp;&nbsp
+  </a>
+ </p>
 <!--
 **Eduardoreisboattini/Eduardoreisboattini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,7 +38,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=eduardoreisboattini">
+  <a href="https://lnkd.in/dkmjaM9y">
     <img src="./ICONS/linkedin.png" alt="LinkedIn" width="60" height="60">&nbsp;&nbsp;
   </a>
   <a href="https://www.unifesp.br/campus/sjc">
