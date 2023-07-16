@@ -172,7 +172,7 @@ While this repository primarily serves as a personal log of my self-learning jou
 <h2>Contact</h2>
 If you have any questions, want to collaborate, or simply discuss programming, please feel free to reach out to me.<br> You can contact me via email or connect with me on LinkedIn.
 
-[![Eduardo R.](https://br.linkedin.com/in/eduardoreisboattini?trk=profile-badge)](https://br.linkedin.com/in/eduardoreisboattini?trk=profile-badge)
+[![Eduardo](https://br.linkedin.com/in/eduardoreisboattini?trk=profile-badge)]
 
               
 <br>
@@ -224,5 +224,4 @@ Happy coding!
     <div class="footer-disclaimer">
         <p>The information provided on this website is for general informational purposes only and does not constitute professional advice. Consult a qualified professional for specific guidance related to your situation.</p>
     </div>
-    <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 </footer>
