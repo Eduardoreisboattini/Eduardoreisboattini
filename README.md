@@ -34,10 +34,7 @@ Here are some ideas to get you started:
   <a href="https://lnkd.in/dkmjaM9y">
     <img src="./ICONS/follow_linkedin.png" alt="Follow me on Linkedin" width="120" height="45">&nbsp;&nbsp;
   </a>
-  <a href="https://www.unifesp.br/campus/sjc">
-    <img src="./ICONS/connect_linkedin.png" alt="Connect with me on Linkedin" width="120" height="45">&nbsp;&nbsp
-  </a>
- </p>
+</p>
 <br> 
 <p align="center">
   <a href="https://www.linkedin.com/in/eduardoreisboattini/">
@@ -171,8 +168,6 @@ While this repository primarily serves as a personal log of my self-learning jou
 
 <h2>Contact</h2>
 If you have any questions, want to collaborate, or simply discuss programming, please feel free to reach out to me.<br> You can contact me via email or connect with me on LinkedIn.
-
-[![Eduardo](https://br.linkedin.com/in/eduardoreisboattini)]
 
               
 <br>
