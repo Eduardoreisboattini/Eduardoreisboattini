@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">GitHub PROJECT</h1>
 
 <p align="center">
-  <kbd><img src="./ICONS/Project_Logo.jpg" alt="Project Logo" width="auto" height="auto" style="border-radius:10%">&nbsp;&nbsp;</kbd>
+ <img src="./ICONS/Project_Logo.jpg" alt="Project Logo" width="auto" height="auto" style="border-radius:10%">&nbsp;&nbsp;
 </p>
 
 
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 Welcome to the Self-Learning Programming Progress Tracker!<br>  
 <p align="center">
   <a href="https://github.com/Eduardoreisboattini/GitHub_PROJECT">
-    <img src="./IMAGES/github_cardtemplate.png" alt="Github Card Template" width="420" height="240" style="border-radius:10%">&nbsp;&nbsp;
+    <img src="./IMAGES/github_cardtemplate.png" alt="Github Card Template" width="auto" height="auto" style="border-radius:10%">&nbsp;&nbsp;
   </a>
 </p>
 🚀 This repository serves as a personal log of my journey in learning programming languages independently.
