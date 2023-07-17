@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">GitHub PROJECT</h1>
 
 <p align="center">
-  <kbd><img src="./ICONS/Project_Logo.jpg" alt="Project Logo" width="200" height="auto" style="border-radius:10%">&nbsp;&nbsp;</kbd>
+  <kbd><img src="./ICONS/Project_Logo.jpg" alt="Project Logo" width="auto" height="auto" style="border-radius:10%">&nbsp;&nbsp;</kbd>
 </p>
 
 
