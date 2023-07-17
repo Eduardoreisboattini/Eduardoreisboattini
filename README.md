@@ -39,13 +39,13 @@ Here are some ideas to get you started:
 <br> 
 <p align="center">
   <a href="https://www.linkedin.com/in/eduardoreisboattini/">
-    <img src="./ICONS/linkedin.png" alt="LinkedIn" width="60" height="auto" style="border-radius:5%">&nbsp;&nbsp;
+    <img src="./ICONS/linkedin.png" alt="LinkedIn" height="auto" width="60"  style="border-radius:5%">&nbsp;&nbsp;
   </a>
   <a href="https://www.unifesp.br/campus/sjc">
-    <img src="./ICONS/unifesp.png" alt="University Email" width="60" height="auto" style="border-radius:5%">&nbsp;&nbsp;
+    <img src="./ICONS/unifesp.png" alt="University Email" height="auto" width="60"  style="border-radius:5%">&nbsp;&nbsp;
   </a>
   <a href="mailto:edu_boa@hotmail.com">
-    <img src="./ICONS/outlook.png" alt="Personal Email" width="60" height="auto" style="border-radius:5%">&nbsp;&nbsp;
+    <img src="./ICONS/outlook.png" alt="Personal Email" height="auto" width="60"  style="border-radius:5%">&nbsp;&nbsp;
   </a>
 </p>
 
