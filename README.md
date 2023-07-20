@@ -70,7 +70,7 @@ Through continuous learning, practice, and hands-on projects, I have deepened my
 
 The repository is organized into the following directories:
 
-<h3>📚 #00 Programming Languages</h3>
+<h3>📚 [Programming Languages]([#00-programming-languages](https://github.com/Eduardoreisboattini/Programming-Languages))</h3>
 
 Contains subdirectories for each programming language I have learned, where you can find code snippets, exercises, and small projects demonstrating my proficiency in that particular language. Some of the languages I have acquired proficiency in include but are not limited to Python, JavaScript, Java, C++, and HTML/CSS. Each language directory within this repository provides examples and projects that demonstrate my knowledge and skills in that particular language.
 
