@@ -147,8 +147,8 @@ Contains useful resources, tutorials, and reference materials I have utilized du
 <a href="https://getbootstrap.com/">
   <img src="./ICONS/bootstrap.png" alt="Bootstrap" width="45" height="45">
 </a>
-
 <br>
+
 ### ⭐ [Progress Highlights](https://github.com/Eduardoreisboattini/Progress-Highlights)
 Here are some of the key highlights of my self-learning programming journey.
 
