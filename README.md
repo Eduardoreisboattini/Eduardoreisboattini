@@ -70,7 +70,7 @@ Through continuous learning, practice, and hands-on projects, I have deepened my
 
 The repository is organized into the following directories:
 
-<h3>📚 [Programming Languages]([#00-programming-languages](https://github.com/Eduardoreisboattini/Programming-Languages))</h3>
+### 📚 [Programming Languages](https://github.com/Eduardoreisboattini/Programming-Languages)
 
 Contains subdirectories for each programming language I have learned, where you can find code snippets, exercises, and small projects demonstrating my proficiency in that particular language. Some of the languages I have acquired proficiency in include but are not limited to Python, JavaScript, Java, C++, and HTML/CSS. Each language directory within this repository provides examples and projects that demonstrate my knowledge and skills in that particular language.
 
@@ -78,13 +78,12 @@ Contains subdirectories for each programming language I have learned, where you 
 
 Includes subdirectories for different projects I have completed, showcasing my ability to solve problems and create functional applications using various programming languages. Throughout my journey, I have undertaken several hands-on projects, ranging from small utilities and web applications to more complex algorithms and data structure implementations. The Projects directory includes a detailed description of each project, its purpose, and the technologies employed.
 
-<h3>📖 #00 Resources</h3>
+### 📖 [Resources](https://github.com/Eduardoreisboattini/Resources)
 
 Contains useful resources, tutorials, and reference materials I have utilized during my learning journey.
 
-<h3>📖 #00 Languages and Tools</h3>
+### 📖 [Languages and Tools](https://github.com/Eduardoreisboattini/Languages-and-Tools)
 
-<a href="https://www.w3.org/">
   <img src="./ICONS/w3c.png" alt="W3C" width="45" height="45" style="border-radius:10%">
 </a>
 
@@ -148,11 +147,10 @@ Contains useful resources, tutorials, and reference materials I have utilized du
   <img src="./ICONS/bootstrap.png" alt="Bootstrap" width="45" height="45">
 </a>
 <br>
-<h3>⭐ #00 Progress Highlights</h3>
-
+### ⭐ [Progress Highlights](https://github.com/Eduardoreisboattini/Progress-Highlights)
 Here are some of the key highlights of my self-learning programming journey.
 
-<h3>🌱 #00 Learning Process</h3>
+### 🌱 [Learning Process](https://github.com/Eduardoreisboattini/Learning-Process)
 
 I believe in continuous learning and improving my skills. 🎯 I have consistently sought out resources, online courses, and programming challenges to enhance my knowledge and practical abilities. The Resources directory contains a curated list of the materials that have been valuable to my learning journey.
 
