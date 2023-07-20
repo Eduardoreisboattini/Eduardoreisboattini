@@ -104,7 +104,7 @@ Contains useful resources, tutorials, and reference materials I have utilized du
   <img src="./ICONS/nodejs.png" alt="Node" width="45" height="45">
 </a>
 
-<a href="https://vuejs.org/en">
+<a href="https://vuejs.org/">
   <img src="./ICONS/vuejs.png" alt="Vue" width="45" height="45">
 </a>
 
