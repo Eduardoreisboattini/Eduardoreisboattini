@@ -104,6 +104,10 @@ Contains useful resources, tutorials, and reference materials I have utilized du
   <img src="./ICONS/nodejs.png" alt="Node" width="45" height="45">
 </a>
 
+<a href="https://vuejs.org/en">
+  <img src="./ICONS/vuejs.png" alt="Vue" width="45" height="45">
+</a>
+
 <a href="http://expressjs.com/">
   <img src="./ICONS/expressjs.png" alt="Express" width="45" height="45">
 </a>
