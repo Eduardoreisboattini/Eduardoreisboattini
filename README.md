@@ -105,7 +105,7 @@ Contains useful resources, tutorials, and reference materials I have utilized du
 </a>
 
 <a href="https://vuejs.org/">
-  <img src="./ICONS/vuejs.png" alt="Vue" width="45" height="45">
+  <img src="./ICONS/vue.png" alt="Vue" width="45" height="45">
 </a>
 
 <a href="http://expressjs.com/">
