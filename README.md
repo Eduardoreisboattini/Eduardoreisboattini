@@ -84,6 +84,7 @@ Contains useful resources, tutorials, and reference materials I have utilized du
 
 ### 📖 [Languages and Tools](https://github.com/Eduardoreisboattini/Languages-and-Tools)
 
+<a href="https://w3.org">
   <img src="./ICONS/w3c.png" alt="W3C" width="45" height="45" style="border-radius:10%">
 </a>
 
