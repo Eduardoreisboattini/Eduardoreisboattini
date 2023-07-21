@@ -105,7 +105,7 @@ Contains useful resources, tutorials, and reference materials I have utilized du
 </a>
 
 <a href="https://www.typescriptlang.org">
-  <img src="./ICONS/typescript.png" alt="Typescript" width="45" height="5">
+  <img src="./ICONS/typescript.png" alt="Typescript" width="45" height="45">
 </a>
 
 <a href="https://vuejs.org/">
