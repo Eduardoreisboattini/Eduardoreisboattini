@@ -104,6 +104,10 @@ Contains useful resources, tutorials, and reference materials I have utilized du
   <img src="./ICONS/nodejs.png" alt="Node" width="45" height="45">
 </a>
 
+<a href="https://www.typescriptlang.org">
+  <img src="./ICONS/typescript.png" alt="Typescript" width="45" height="5">
+</a>
+
 <a href="https://vuejs.org/">
   <img src="./ICONS/vue.png" alt="Vue" width="45" height="45">
 </a>
