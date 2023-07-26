@@ -100,7 +100,7 @@ Contains subdirectories for each programming language I have learned, where you 
 [
 4. [Design Patterns](https://github.com/Eduardoreisboattini/GitHub_PROJECT/tree/main/%2300%2014.Design%20Patterns): Learn about common design patterns that help you solve recurring problems in software design. These patterns improve code maintainability, reusability, and organization.
 
-5. [Software Development Principles][(https://github.com/Eduardoreisboattini/GitHub_PROJECT/tree/main/%2300%2015.Software%20Development%20Principles): Familiarize yourself with concepts like DRY (Don't Repeat Yourself), KISS (Keep It Simple, Stupid), SOLID principles, and other best practices to write clean, efficient, and maintainable code.
+5. [Software Development Principles](https://github.com/Eduardoreisboattini/GitHub_PROJECT/tree/main/%2300%2015.Software%20Development%20Principles): Familiarize yourself with concepts like DRY (Don't Repeat Yourself), KISS (Keep It Simple, Stupid), SOLID principles, and other best practices to write clean, efficient, and maintainable code.
 
 ### 💡 [Projects](https://github.com/Eduardoreisboattini/Projects)
 
