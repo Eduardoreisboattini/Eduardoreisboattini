@@ -72,19 +72,19 @@ The repository is organized into the following directories:
 
 ### 📚 Programming Foundations
 
-1. [Basic Programming Concepts](https://github.com/your-username/basic-programming-concepts): Get familiar with variables, data types, operators, control structures (if-else, loops), functions, and basic I/O operations. These concepts apply to almost every programming language and are the backbone of any program.
+1. [Basic Programming Concepts](https://github.com/Eduardoreisboattini/GitHub_PROJECT/tree/main/%2300%2001.Basic%20Programming%20Concepts): Get familiar with variables, data types, operators, control structures (if-else, loops), functions, and basic I/O operations. These concepts apply to almost every programming language and are the backbone of any program.
 
-2. [Data Structures](https://github.com/your-username/data-structures): Understanding data structures like arrays, linked lists, stacks, queues, trees, and graphs is essential. They help you organize and manipulate data efficiently, and they are crucial in designing algorithms.
+2. [Data Structures](https://github.com/Eduardoreisboattini/GitHub_PROJECT/tree/main/%2300%2002.Data%20Structures): Understanding data structures like arrays, linked lists, stacks, queues, trees, and graphs is essential. They help you organize and manipulate data efficiently, and they are crucial in designing algorithms.
 
-3. [Basic Mathematics](https://github.com/your-username/basic-mathematics): While you don't need to be a math genius, having a good grasp of basic arithmetic, algebra, and boolean logic will significantly help you in writing algorithms and solving problems.
+3. [Basic Mathematics](https://github.com/Eduardoreisboattini/GitHub_PROJECT/tree/main/%2300%2003.Basic%20Mathematics): While you don't need to be a math genius, having a good grasp of basic arithmetic, algebra, and boolean logic will significantly help you in writing algorithms and solving problems.
 
-4. [Problem-Solving Techniques](https://github.com/your-username/problem-solving-techniques): Learn problem-solving strategies, such as breaking down problems into smaller steps, pattern recognition, and devising algorithms to solve them. This skill is invaluable when tackling complex programming challenges.
+4. [Problem-Solving Techniques](https://github.com/Eduardoreisboattini/GitHub_PROJECT/tree/main/%2300%2004.Problem-Solving%20Techniques): Learn problem-solving strategies, such as breaking down problems into smaller steps, pattern recognition, and devising algorithms to solve them. This skill is invaluable when tackling complex programming challenges.
 
-5. [Understanding of Memory Management](https://github.com/your-username/memory-management): Be aware of how memory works in your chosen programming language and how to manage resources effectively to avoid memory leaks or performance issues.
+5. [Understanding of Memory Management](https://github.com/Eduardoreisboattini/GitHub_PROJECT/tree/main/%2300%2005.Understanding%20of%20Memory%20Management): Be aware of how memory works in your chosen programming language and how to manage resources effectively to avoid memory leaks or performance issues.
 
-6. [Recursion](https://github.com/your-username/recursion): Understanding recursion is essential for solving problems that can be naturally solved by dividing them into smaller sub-problems.
+6. [Recursion](https://github.com/Eduardoreisboattini/GitHub_PROJECT/tree/main/%2300%2006.%20Recursion): Understanding recursion is essential for solving problems that can be naturally solved by dividing them into smaller sub-problems.
 
-7. [Version Control](https://github.com/your-username/version-control): While not directly related to programming logic, learning version control systems like Git will greatly benefit you when collaborating with others and managing your codebase.
+7. [Version Control](https://github.com/Eduardoreisboattini/GitHub_PROJECT/tree/main/%2300%2007.Version%20Control): While not directly related to programming logic, learning version control systems like Git will greatly benefit you when collaborating with others and managing your codebase.
 
 ### 📚 [Programming Languages](https://github.com/Eduardoreisboattini/Programming-Languages)
 
@@ -92,15 +92,15 @@ Contains subdirectories for each programming language I have learned, where you 
 
 ### 📚 Advanced Topics
 
-1. [Object-Oriented Programming (OOP)](https://github.com/your-username/oop): OOP is a paradigm where you design programs as collections of objects, each with its data and behaviors. Understanding classes, objects, encapsulation, inheritance, and polymorphism are essential in OOP.
+1. [Object-Oriented Programming (OOP)](https://github.com/Eduardoreisboattini/GitHub_PROJECT/tree/main/%2300%2011.Object-Oriented%20Programming%20OOP): OOP is a paradigm where you design programs as collections of objects, each with its data and behaviors. Understanding classes, objects, encapsulation, inheritance, and polymorphism are essential in OOP.
 
-2. [Logic and Boolean Algebra](https://github.com/your-username/logic-boolean-algebra): This is fundamental to understanding how programming conditions and decisions work. You'll need to understand logical operators, truth tables, and how to construct logical expressions.
+2. [Logic and Boolean Algebra](https://github.com/Eduardoreisboattini/GitHub_PROJECT/tree/main/%2300%2012.Logic%20and%20Boolean%20Algebra): This is fundamental to understanding how programming conditions and decisions work. You'll need to understand logical operators, truth tables, and how to construct logical expressions.
 
-3. [Algorithms and Data Structures](https://github.com/your-username/algorithms-data-structures): Building on your earlier knowledge of data structures, dive deeper into various algorithms like sorting, searching, graph algorithms, dynamic programming, etc. Knowing algorithmic complexity (Big O notation) is crucial for optimizing code.
+3. [Algorithms and Data Structures](https://github.com/Eduardoreisboattini/GitHub_PROJECT/tree/main/%2300%2013.Algorithms%20and%20Data%20Structures): Building on your earlier knowledge of data structures, dive deeper into various algorithms like sorting, searching, graph algorithms, dynamic programming, etc. Knowing algorithmic complexity (Big O notation) is crucial for optimizing code.
+[
+4. [Design Patterns](https://github.com/Eduardoreisboattini/GitHub_PROJECT/tree/main/%2300%2014.Design%20Patterns): Learn about common design patterns that help you solve recurring problems in software design. These patterns improve code maintainability, reusability, and organization.
 
-4. [Design Patterns](https://github.com/your-username/design-patterns): Learn about common design patterns that help you solve recurring problems in software design. These patterns improve code maintainability, reusability, and organization.
-
-5. [Software Development Principles](https://github.com/your-username/software-development-principles): Familiarize yourself with concepts like DRY (Don't Repeat Yourself), KISS (Keep It Simple, Stupid), SOLID principles, and other best practices to write clean, efficient, and maintainable code.
+5. [Software Development Principles][(https://github.com/Eduardoreisboattini/GitHub_PROJECT/tree/main/%2300%2015.Software%20Development%20Principles): Familiarize yourself with concepts like DRY (Don't Repeat Yourself), KISS (Keep It Simple, Stupid), SOLID principles, and other best practices to write clean, efficient, and maintainable code.
 
 ### 💡 [Projects](https://github.com/Eduardoreisboattini/Projects)
 
