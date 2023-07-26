@@ -70,9 +70,7 @@ Through continuous learning, practice, and hands-on projects, I have deepened my
 
 The repository is organized into the following directories:
 
-# Programming Foundations
-
-### 📚 Foundational Subjects
+### 📚 Programming Foundations
 
 1. [Basic Programming Concepts](https://github.com/your-username/basic-programming-concepts): Get familiar with variables, data types, operators, control structures (if-else, loops), functions, and basic I/O operations. These concepts apply to almost every programming language and are the backbone of any program.
 
