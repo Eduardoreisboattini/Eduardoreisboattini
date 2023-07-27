@@ -49,6 +49,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+https://github-readme-stats.vercel.app/api?username=Eduardoreisboattini
 
 <h2>Introduction</h2>
 
