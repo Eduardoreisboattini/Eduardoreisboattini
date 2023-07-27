@@ -53,6 +53,8 @@ Here are some ideas to get you started:
 
 [Weblate user statistic](https://img.shields.io/weblate/:statistic/:Eduardoreisboattini)
 
+https://img.shields.io/weblate/comments/Eduardoreisboattini
+
 <h2>Introduction</h2>
 
 Welcome to the Self-Learning Programming Progress Tracker!<br>  
