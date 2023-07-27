@@ -51,9 +51,9 @@ Here are some ideas to get you started:
 
 [Statistics](https://github-readme-stats.vercel.app/api?username=Eduardoreisboattini)
 
-[Weblate user statistic](https://img.shields.io/weblate/:statistic/:Eduardoreisboattini)
+![Weblate user statistic](https://img.shields.io/weblate/:statistic/:Eduardoreisboattini)
 
-https://img.shields.io/weblate/comments/Eduardoreisboattini
+!https://img.shields.io/weblate/comments/Eduardoreisboattini
 
 <h2>Introduction</h2>
 
