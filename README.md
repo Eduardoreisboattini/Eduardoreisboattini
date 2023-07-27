@@ -51,6 +51,8 @@ Here are some ideas to get you started:
 
 [Statistics](https://github-readme-stats.vercel.app/api?username=Eduardoreisboattini)
 
+![Weblate user statistic](https://img.shields.io/weblate/:statistic/:Eduardoreisboattini)
+
 <h2>Introduction</h2>
 
 Welcome to the Self-Learning Programming Progress Tracker!<br>  
