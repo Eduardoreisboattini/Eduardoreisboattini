@@ -54,6 +54,7 @@ Here are some ideas to get you started:
 ![GitHub followers](https://img.shields.io/github/followers/Eduardoreisboattini?style=social)](https://github.com/Eduardoreisboattini)
 ![Twitter Follow](https://img.shields.io/twitter/follow/ed_re_bo?style=social)](https://twitter.com/ed_re_bo)
 
+
 <h2>Introduction</h2>
 
 Welcome to the Self-Learning Programming Progress Tracker!<br>  
