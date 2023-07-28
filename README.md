@@ -318,7 +318,7 @@ Happy coding!
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eduardoreisboattini&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true)](https://github.com/Eduardoreisboattini)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardoreisboattini&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact)](https://github.com/Eduardoreisboattini)
-[![Your Repository Stats](https://github-readme-stats.vercel.app/api/pin/?username=Eduardoreisboattini&repo=YOUR_REPO_NAME&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true)](https://github.com/Eduardoreisboattini/YOUR_REPO_NAME)
+[![Your Repository Stats](https://github-readme-stats.vercel.app/api/pin/?username=Eduardoreisboattini&repo=Eduardoreisboattin&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true)](https://github.com/Eduardoreisboattini/YOUR_REPO_NAME)
 [![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Eduardoreisboattini&theme=gruvbox&hide_border=false)](https://github.com/Eduardoreisboattini)
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Eduardoreisboattini&theme=gruvbox&row=2&column=3)](https://github.com/Eduardoreisboattini)
 [![Commits since last release](https://img.shields.io/github/commits-since/Eduardoreisboattini/Eduardoreisboattini/latest?include_prereleases&label=Commits%20since%20last%20release&style=flat-square)](https://github.com/Eduardoreisboattini/Eduardoreisboattini/releases)
