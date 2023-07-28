@@ -322,9 +322,11 @@ If you have any questions, want to collaborate, or simply discuss programming, p
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardoreisboattini&theme=gruvbox&hide_border=false&layout=compact)](https://github.com/Eduardoreisboattini)
 [![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Eduardoreisboattini&theme=gruvbox&hide_border=false)](https://github.com/users/Eduardoreisboattini)
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Eduardoreisboattini&theme=gruvbox&row=2&column=3)](https://github.com/Eduardoreisboattini)
+
+#
+
 [![Commits since last release](https://img.shields.io/github/commits-since/Eduardoreisboattini/Eduardoreisboattini/latest?include_prereleases&label=Commits%20since%20last%20release&style=flat-square)](https://github.com/Eduardoreisboattini/Eduardoreisboattini/releases)
 [![Profile views](https://komarev.com/ghpvc/?username=Eduardoreisboattini&color=blueviolet&style=flat-square)](https://github.com/Eduardoreisboattini)
-[![Gists](https://badges.pufler.dev/gists/Eduardoreisboattini?style=flat-square&theme=gruvbox)](https://gist.github.com/Eduardoreisboattini)
 
 #
 
