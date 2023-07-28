@@ -51,15 +51,14 @@ Here are some ideas to get you started:
 </p>
 
 #
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?style=social&logo=github)](https://github.com/Eduardoreisboattini)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=social&logo=twitter)](https://twitter.com/ed_re_bo)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-orange?style=social&logo=instagram)](https://www.instagram.com/ed_re_bo)
-[![Facebook](https://img.shields.io/badge/Facebook-Like-blue?style=social&logo=facebook)](https://www.facebook.com/eboattini/)
-[![Discord](https://img.shields.io/badge/Discord-Join-purple?style=social&logo=discord)](https://discord.gg/tgUv67yD)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=social&logo=youtube)](https://www.youtube.com/@KALISHworld/)
-
-
-
+<div align="center">
+  [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?style=social&logo=github)](https://github.com/Eduardoreisboattini)
+  [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=social&logo=twitter)](https://twitter.com/ed_re_bo)
+  [![Instagram](https://img.shields.io/badge/Instagram-Follow-orange?style=social&logo=instagram)](https://www.instagram.com/ed_re_bo)
+  [![Facebook](https://img.shields.io/badge/Facebook-Like-blue?style=social&logo=facebook)](https://www.facebook.com/eboattini/)
+  [![Discord](https://img.shields.io/badge/Discord-Join-purple?style=social&logo=discord)](https://discord.gg/tgUv67yD)
+  [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=social&logo=youtube)](https://www.youtube.com/@KALISHworld/)
+</div>
 
 <h2>Introduction</h2>
 
