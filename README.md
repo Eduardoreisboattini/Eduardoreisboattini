@@ -247,13 +247,56 @@ Happy coding!
 
 # 💻Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=ffdd54)
+
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=ffdd54)
 ![Excel](https://img.shields.io/badge/excel-%2300f.svg?style=for-the-badge&logo=excel&logoColor=ffdd54)
 
 # 📊GitHub Stats :
+
 ![](https://github-readme-stats.vercel.app/api?username=Eduardoreisboattini&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardoreisboattini&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true)](https://github.com/YOUR_USERNAME)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact)](https://github.com/YOUR_USERNAME)
+[![Your Repository Stats](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_NAME&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true)](https://github.com/Eduardoreisboattini/Eduardoreisboattini)
+[![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=gruvbox&hide_border=false)](https://github.com/YOUR_USERNAME)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=gruvbox&row=2&column=3)](https://github.com/YOUR_USERNAME)
+[![Commits since last release](https://img.shields.io/github/commits-since/Eduardoreisboattini/Eduardoreisboattini/latest?include_prereleases&label=Commits%20since%20last%20release&style=flat-square)](https://github.com/Eduardoreisboattini/Eduardoreisboattini/releases)
+[![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)](https://github.com/YOUR_USERNAME)
+[![Gists](https://badges.pufler.dev/gists/YOUR_USERNAME&theme=gruvbox)](https://gist.github.com/YOUR_USERNAME)
+[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)](https://github.com/YOUR_USERNAME)
+[![Twitter Follow](https://img.shields.io/twitter/follow/YOUR_TWITTER_USERNAME?style=social)](https://twitter.com/YOUR_TWITTER_USERNAME)
+[![Repos Badge](https://badges.pufler.dev/repos/YOUR_USERNAME&theme=gruvbox)](https://github.com/YOUR_USERNAME?tab=repositories)
+[![Years Badge](https://badges.pufler.dev/years/YOUR_USERNAME&theme=gruvbox)](https://github.com/YOUR_USERNAME)
+[![Updated Badge](https://badges.pufler.dev/updated/Eduardoreisboattini/Eduardoreisboattini&theme=gruvbox)](https://github.com/Eduardoreisboattini/Eduardoreisboattini/commits)
+[![GitHub Gists](https://img.shields.io/github/gists/YOUR_USERNAME&theme=gruvbox)](https://gist.github.com/YOUR_USERNAME)
+[![Forks Badge](https://badges.pufler.dev/forks/Eduardoreisboattini/Eduardoreisboattini&theme=gruvbox)](https://github.com/Eduardoreisboattini/Eduardoreisboattini/network/members)
+[![Stars Badge](https://badges.pufler.dev/stars/Eduardoreisboattini/Eduardoreisboattini&theme=gruvbox)](https://github.com/Eduardoreisboattini/Eduardoreisboattini/stargazers)
+[![Issues Badge](https://badges.pufler.dev/issues/Eduardoreisboattini/Eduardoreisboattini&theme=gruvbox)](https://github.com/Eduardoreisboattini/Eduardoreisboattini/issues)
+[![Pull Requests Badge](https://badges.pufler.dev/pr/Eduardoreisboattini/Eduardoreisboattini&theme=gruvbox)](https://github.com/Eduardoreisboattini/Eduardoreisboattini/pulls)
+[![Visits Badge](https://badges.pufler.dev/visits/Eduardoreisboattini/Eduardoreisboattini&theme=gruvbox)](https://github.com/Eduardoreisboattini/Eduardoreisboattini)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source&theme=gruvbox)](https://github.com/ellerbrock/open-source-badges/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         <!-- Footer section with additional links and information -->
 <footer>
     <div class="footer-container">
