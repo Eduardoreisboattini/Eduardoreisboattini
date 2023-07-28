@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 [![Twitch](https://img.shields.io/badge/Twitch-Follow-purple?style=social&logo=twitch)](https://www.twitch.tv/kalish_world)
 [![Patreon](https://img.shields.io/badge/Patreon-Support-orange?style=social&logo=patreon)](https://www.patreon.com/KalishWorld)
 [![Dev.to](https://img.shields.io/badge/Dev.to-Profile-black?style=social&logo=dev.to)](https://dev.to/yourusername/)
-[![Medium](https://img.shields.io/badge/Medium-Follow-black?style=social&logo=medium)](https://medium.com/@yourusername/)
+[![Medium](https://img.shields.io/badge/Medium-Follow-black?style=social&logo=medium)](https://medium.com/@edureisboa/)
 
 <h2>Introduction</h2>
 
