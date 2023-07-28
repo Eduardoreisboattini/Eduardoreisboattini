@@ -200,8 +200,8 @@ Here are some of the key highlights of my self-learning programming journey.
 
 I believe in continuous learning and improving my skills. 🎯 I have consistently sought out resources, online courses, and programming challenges to enhance my knowledge and practical abilities. The Resources directory contains a curated list of the materials that have been valuable to my learning journey.
 
-### Contributing
-## Getting Started
+## Contributing
+### Getting Started
 
 To explore my progress and the projects I have completed, follow these steps:
 
