@@ -57,6 +57,12 @@ Here are some ideas to get you started:
 [![Facebook](https://img.shields.io/badge/Facebook-Like-blue?style=social&logo=facebook)](https://www.facebook.com/eboattini/)
 [![Discord](https://img.shields.io/badge/Discord-Join-purple?style=social&logo=discord)](https://discord.gg/tgUv67yD)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=social&logo=youtube)](https://www.youtube.com/@KALISHworld/)
+[![Reddit](https://img.shields.io/badge/Reddit-Join-orange?style=social&logo=reddit)](https://www.reddit.com/user/yourusername/)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-yellow?style=social&logo=stackoverflow)](https://stackoverflow.com/users/youruserid/)
+[![Twitch](https://img.shields.io/badge/Twitch-Follow-purple?style=social&logo=twitch)](https://www.twitch.tv/yourusername/)
+[![Patreon](https://img.shields.io/badge/Patreon-Support-orange?style=social&logo=patreon)](https://www.patreon.com/yourusername/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-Profile-black?style=social&logo=dev.to)](https://dev.to/yourusername/)
+[![Medium](https://img.shields.io/badge/Medium-Follow-black?style=social&logo=medium)](https://medium.com/@yourusername/)
 
 <h2>Introduction</h2>
 
