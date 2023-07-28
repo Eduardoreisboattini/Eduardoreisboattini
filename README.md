@@ -48,8 +48,9 @@ Here are some ideas to get you started:
     <img src="./ICONS/outlook.png" alt="Personal Email" height="auto" width="60"  style="border-radius:10%">&nbsp;&nbsp;
   </a>
 </p>
+<br>
 [![Twitter Follow](https://img.shields.io/twitter/follow/@ed_re_bo?style=social)](https://twitter.com/@ed_re_bo)
-
+<br>
 <h2>Introduction</h2>
 
 Welcome to the Self-Learning Programming Progress Tracker!<br>  
