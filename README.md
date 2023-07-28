@@ -58,8 +58,6 @@ Here are some ideas to get you started:
 
 
 # 📊GitHub Stats :
-[Statistics](https://github-readme-stats.vercel.app/api?username=Eduardoreisboattini)
-[GitHub all releases](https://img.shields.io/github/downloads/Eduardoreisboattini/Eduardoreisboattini/total)
 ![](https://github-readme-stats.vercel.app/api?username=Eduardoreisboattini&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardoreisboattini&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
