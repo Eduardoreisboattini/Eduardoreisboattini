@@ -330,10 +330,13 @@ Happy coding!
 [![Years Badge](https://badges.pufler.dev/years/Eduardoreisboattini?style=flat-square&theme=gruvbox)](https://github.com/Eduardoreisboattini)
 [![Updated Badge](https://badges.pufler.dev/updated/Eduardoreisboattini/Eduardoreisboattini?style=flat-square&theme=gruvbox)](https://github.com/Eduardoreisboattini/Eduardoreisboattini/commits)
 [![GitHub Gists](https://badges.pufler.dev/gists/Eduardoreisboattini?style=flat-square&theme=gruvbox)](https://gist.github.com/Eduardoreisboattini)
-[![Forks Badge](https://badges.pufler.dev/forks/Eduardoreisboattini/Eduardoreisboattini?style=flat-square&theme=gruvbox)](https://github.com/Eduardoreisboattini/Eduardoreisboattini/network/members)
-[![Stars Badge](https://badges.pufler.dev/stars/Eduardoreisboattini/Eduardoreisboattini?style=flat-square&theme=gruvbox)](https://github.com/Eduardoreisboattini/Eduardoreisboattini/stargazers)
-[![Issues Badge](https://badges.pufler.dev/issues/Eduardoreisboattini/Eduardoreisboattini?style=flat-square&theme=gruvbox)](https://github.com/Eduardoreisboattini/Eduardoreisboattini/issues)
-[![Pull Requests Badge](https://badges.pufler.dev/pr/Eduardoreisboattini/Eduardoreisboattini?style=flat-square&theme=gruvbox)](https://github.com/Eduardoreisboattini/Eduardoreisboattini/pulls)
+
+[![Forks Badge](https://img.shields.io/github/forks/Eduardoreisboattini/Eduardoreisboattini?style=flat-square&theme=gruvbox)](https://github.com/Eduardoreisboattini/Eduardoreisboattini/network/members)
+[![Stars Badge](https://img.shields.io/github/stars/Eduardoreisboattini/Eduardoreisboattini?style=flat-square&theme=gruvbox)](https://github.com/Eduardoreisboattini/Eduardoreisboattini/stargazers)
+[![Issues Badge](https://img.shields.io/github/issues/Eduardoreisboattini/Eduardoreisboattini?style=flat-square&theme=gruvbox)](https://github.com/Eduardoreisboattini/Eduardoreisboattini/issues)
+[![Pull Requests Badge](https://img.shields.io/github/issues-pr/Eduardoreisboattini/Eduardoreisboattini?style=flat-square&theme=gruvbox)](https://github.com/Eduardoreisboattini/Eduardoreisboattini/pulls)
+
+
 [![Visits Badge](https://badges.pufler.dev/visits/Eduardoreisboattini/Eduardoreisboattini?style=flat-square&theme=gruvbox)](https://github.com/Eduardoreisboattini/Eduardoreisboattini)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source?style=flat-square&theme=gruvbox)](https://github.com/ellerbrock/open-source-badges/)
 
