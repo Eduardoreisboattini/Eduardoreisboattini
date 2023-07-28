@@ -393,7 +393,7 @@ If you have any questions, want to collaborate, or simply discuss programming, p
 [![Google Meet](https://img.shields.io/badge/google%20meet-%234285F4.svg?style=for-the-badge&logo=googlemeet&logoColor=white)](https://meet.google.com/)
 [![Zoom](https://img.shields.io/badge/zoom-%232D8CFF.svg?style=for-the-badge&logo=zoom&logoColor=white)](https://zoom.us/)
 
-### GitHub Stats 📊:
+##  GitHub Stats
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eduardoreisboattini&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true)](https://github.com/Eduardoreisboattini)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardoreisboattini&theme=gruvbox&hide_border=false&layout=compact)](https://github.com/Eduardoreisboattini)
