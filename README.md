@@ -48,7 +48,7 @@ Here are some ideas to get you started:
     <img src="./ICONS/outlook.png" alt="Personal Email" height="auto" width="60"  style="border-radius:10%">&nbsp;&nbsp;
   </a>
 </p>
-
+[![Twitter Follow](https://img.shields.io/twitter/follow/@ed_re_bo?style=social)](https://twitter.com/@ed_re_bo)
 
 <h2>Introduction</h2>
 
@@ -263,7 +263,6 @@ Happy coding!
 [![Profile views](https://komarev.com/ghpvc/?username=Eduardoreisboattini&color=blueviolet&style=flat-square)](https://github.com/Eduardoreisboattini)
 [![Gists](https://badges.pufler.dev/gists/Eduardoreisboattini&theme=gruvbox)](https://gist.github.com/Eduardoreisboattini)
 [![GitHub followers](https://img.shields.io/github/followers/Eduardoreisboattini?style=social)](https://github.com/Eduardoreisboattini)
-[![Twitter Follow](https://img.shields.io/twitter/follow/YOUR_TWITTER_USERNAME?style=social)](https://twitter.com/YOUR_TWITTER_USERNAME)
 [![Repos Badge](https://badges.pufler.dev/repos/Eduardoreisboattini&theme=gruvbox)](https://github.com/Eduardoreisboattini?tab=repositories)
 [![Years Badge](https://badges.pufler.dev/years/Eduardoreisboattini&theme=gruvbox)](https://github.com/Eduardoreisboattini)
 [![Updated Badge](https://badges.pufler.dev/updated/Eduardoreisboattini/Eduardoreisboattini&theme=gruvbox)](https://github.com/Eduardoreisboattini/Eduardoreisboattini/commits)
