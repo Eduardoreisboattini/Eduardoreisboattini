@@ -338,7 +338,8 @@ Happy coding!
 
 
 [![Visits Badge](https://badges.pufler.dev/visits/Eduardoreisboattini/Eduardoreisboattini?style=flat-square&theme=gruvbox)](https://github.com/Eduardoreisboattini/Eduardoreisboattini)
-[![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=flat-square&theme=gruvbox)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=flat-square&logo=open-source-initiative&logoColor=white&color=blueviolet&theme=gruvbox)](https://github.com/ellerbrock/open-source-badges/)
+
 
 
 
