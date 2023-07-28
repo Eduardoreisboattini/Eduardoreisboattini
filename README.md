@@ -329,7 +329,7 @@ If you have any questions, want to collaborate, or simply discuss programming, p
 [![COBOL](https://img.shields.io/badge/cobol-%234EA94B.svg?style=for-the-badge&logo=cobol&logoColor=white)](https://en.wikipedia.org/wiki/COBOL)
 [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 [![Delphi](https://img.shields.io/badge/delphi-%23EE1F35.svg?style=for-the-badge&logo=delphi&logoColor=white)](https://www.embarcadero.com/products/delphi)
-[![Elixir](https://img.shields.io/badge/elixir-%#4B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)](https://elixir-lang.org/)
+[![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)](https://elixir-lang.org/)
 [![Fortran](https://img.shields.io/badge/fortran-%2371412B.svg?style=for-the-badge&logo=fortran&logoColor=white)](https://fortran-lang.org/)
 [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
 [![Haskell](https://img.shields.io/badge/haskell-%235D4F85.svg?style=for-the-badge&logo=haskell&logoColor=white)](https://www.haskell.org/)
