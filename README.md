@@ -15,15 +15,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">GitHub PROJECT</h1>
+
+# GitHub PROJECT
 
 <p align="center">
- <img src="./ICONS/Project_Logo.jpg" alt="Project Logo" width="auto" height="240" style="border-radius:10%">&nbsp;&nbsp;
+  <img src="./ICONS/Project_Logo.jpg" alt="Project Logo" width="auto" height="240" style="border-radius:10%">&nbsp;&nbsp;
 </p>
 
-
 <p align="center">
-  Self-Learning<br> Programming Progress Tracker<br>
+  Self-Learning<br>
+  Programming Progress Tracker
 </p>
 
 <p align="center">
@@ -32,25 +33,16 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://lnkd.in/dkmjaM9y">
-    <img src="./ICONS/follow_linkedin.png" alt="Follow me on Linkedin" width="120" height="auto" style="border-radius:10%">
-  </a>
-</p>
-<br> 
-<p align="center">
-  <a href="https://www.linkedin.com/in/eduardoreisboattini/">
-    <img src="./ICONS/linkedin.png" alt="LinkedIn" height="auto" width="60"  style="border-radius:10%">&nbsp;&nbsp;
-  </a>
-  <a href="https://www.unifesp.br/campus/sjc">
-    <img src="./ICONS/unifesp.png" alt="University Email" height="auto" width="60"  style="border-radius:10%">&nbsp;&nbsp;
-  </a>
-  <a href="mailto:edu_boa@hotmail.com">
-    <img src="./ICONS/outlook.png" alt="Personal Email" height="auto" width="60"  style="border-radius:10%">&nbsp;&nbsp;
-  </a>
+  [Follow me on LinkedIn](https://lnkd.in/dkmjaM9y)
+  <br>
+  ![LinkedIn](./ICONS/linkedin.png)
+  ![University Email](./ICONS/unifesp.png)
+  ![Personal Email](./ICONS/outlook.png)
+  ![GitHub followers](https://img.shields.io/github/followers/Eduardoreisboattini?style=social)](https://github.com/Eduardoreisboattini)
+  ![Twitter Follow](https://img.shields.io/twitter/follow/ed_re_bo?style=social)](https://twitter.com/ed_re_bo)
 </p>
 
-[![GitHub followers](https://img.shields.io/github/followers/Eduardoreisboattini?style=social)](https://github.com/Eduardoreisboattini)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ed_re_bo?style=social)](https://twitter.com/ed_re_bo)
+
 
 <h2>Introduction</h2>
 
