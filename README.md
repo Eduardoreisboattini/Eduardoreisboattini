@@ -51,12 +51,13 @@ Here are some ideas to get you started:
 </p>
 
 #
-[![GitHub followers](https://img.shields.io/github/followers/Eduardoreisboattini?style=social)](https://github.com/Eduardoreisboattini)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ed_re_bo?style=social)](https://twitter.com/ed_re_bo)
-[![Facebook](./ICONS/facebook.png)](https://www.facebook.com/eboattini/)
-[![Discord](./ICONS/discord.png)](https://discord.gg/tgUv67yD)
-[![Instagram](./ICONS/instagram.png)](https://www.instagram.com/ed_re_bo)
-[![YouTube](./ICONS/youtube.png)](https://www.youtube.com/@KALISHworld/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?style=social&logo=github)](https://github.com/Eduardoreisboattini)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=social&logo=twitter)](https://twitter.com/ed_re_bo)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-orange?style=social&logo=instagram)](https://www.instagram.com/ed_re_bo)
+[![Facebook](https://img.shields.io/badge/Facebook-Like-blue?style=social&logo=facebook)](https://www.facebook.com/eboattini/)
+[![Discord](https://img.shields.io/badge/Discord-Join-purple?style=social&logo=discord)](https://discord.gg/tgUv67yD)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=social&logo=youtube)](https://www.youtube.com/@KALISHworld/)
+
 
 
 
