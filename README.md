@@ -236,14 +236,6 @@ If you have any questions, want to collaborate, or simply discuss programming, p
   <img src="./ICONS/youtube.png" alt="YouTube" width="45" height="45">
 </a>
 
-<br>
-<h2>Conclusion</h2>
-Thank you for taking the time to explore my self-learning programming progress tracker. <br>
-This project reflects my dedication, determination, and love for programming.<br> I am continuously growing and expanding my skill set, and I look forward to further challenges and opportunities that will fuel my learning journey.
-<br>
-<br>
-Happy coding!
-
 # 💻Tech Stack
 ## Front-end
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -338,6 +330,14 @@ Happy coding!
 
 [![Visits Badge](https://badges.pufler.dev/visits/Eduardoreisboattini/Eduardoreisboattini?style=flat-square&theme=gruvbox)](https://github.com/Eduardoreisboattini/Eduardoreisboattini)
 [![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=flat-square&logo=open-source-initiative&logoColor=white&color=blueviolet&theme=gruvbox)](https://github.com/ellerbrock/open-source-badges/)
+
+<br>
+<h2>Conclusion</h2>
+Thank you for taking the time to explore my self-learning programming progress tracker. <br>
+This project reflects my dedication, determination, and love for programming.<br> I am continuously growing and expanding my skill set, and I look forward to further challenges and opportunities that will fuel my learning journey.
+<br>
+<br>
+Happy coding!
 
 <footer>
     <div class="footer-container">
