@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# GitHub PROJECT
+<h1 align="center">GitHub PROJECT</h1>
 
 <p align="center">
-  <img src="./ICONS/Project_Logo.jpg" alt="Project Logo" width="auto" height="240" style="border-radius:10%">&nbsp;&nbsp;
+ <img src="./ICONS/Project_Logo.jpg" alt="Project Logo" width="auto" height="240" style="border-radius:10%">&nbsp;&nbsp;
 </p>
 
+
 <p align="center">
-  Self-Learning<br>
-  Programming Progress Tracker
+  Self-Learning<br> Programming Progress Tracker<br>
 </p>
 
 <p align="center">
@@ -33,14 +33,22 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  [Follow me on LinkedIn](https://lnkd.in/dkmjaM9y)
-  <br>
-  ![LinkedIn](./ICONS/linkedin.png)
-  ![University Email](./ICONS/unifesp.png)
-  ![Personal Email](./ICONS/outlook.png)
+  <a href="https://lnkd.in/dkmjaM9y">
+    <img src="./ICONS/follow_linkedin.png" alt="Follow me on Linkedin" width="120" height="auto" style="border-radius:10%">
+  </a>
 </p>
-
-
+<br> 
+<p align="center">
+  <a href="https://www.linkedin.com/in/eduardoreisboattini/">
+    <img src="./ICONS/linkedin.png" alt="LinkedIn" height="auto" width="60"  style="border-radius:10%">&nbsp;&nbsp;
+  </a>
+  <a href="https://www.unifesp.br/campus/sjc">
+    <img src="./ICONS/unifesp.png" alt="University Email" height="auto" width="60"  style="border-radius:10%">&nbsp;&nbsp;
+  </a>
+  <a href="mailto:edu_boa@hotmail.com">
+    <img src="./ICONS/outlook.png" alt="Personal Email" height="auto" width="60"  style="border-radius:10%">&nbsp;&nbsp;
+  </a>
+</p>
 
 
 <h2>Introduction</h2>
