@@ -38,9 +38,8 @@ Here are some ideas to get you started:
   ![LinkedIn](./ICONS/linkedin.png)
   ![University Email](./ICONS/unifesp.png)
   ![Personal Email](./ICONS/outlook.png)
-  ![GitHub followers](https://img.shields.io/github/followers/Eduardoreisboattini?style=social)](https://github.com/Eduardoreisboattini)
-  ![Twitter Follow](https://img.shields.io/twitter/follow/ed_re_bo?style=social)](https://twitter.com/ed_re_bo)
 </p>
+
 
 
 
