@@ -201,7 +201,7 @@ Here are some of the key highlights of my self-learning programming journey.
 I believe in continuous learning and improving my skills. 🎯 I have consistently sought out resources, online courses, and programming challenges to enhance my knowledge and practical abilities. The Resources directory contains a curated list of the materials that have been valuable to my learning journey.
 
 <h2>Contributing</h2>
-## Getting Started
+### Getting Started
 
 To explore my progress and the projects I have completed, follow these steps:
 
@@ -308,14 +308,15 @@ If you have any questions, want to collaborate, or simply discuss programming, p
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 
-## NoSQL Databases
+### NoSQL Databases
 
 [![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 
 ### Languages
 
-## GitHub Stats 📊:
+
+### GitHub Stats 📊:
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eduardoreisboattini&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true)](https://github.com/Eduardoreisboattini)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardoreisboattini&theme=gruvbox&hide_border=false&layout=compact)](https://github.com/Eduardoreisboattini)
@@ -325,18 +326,26 @@ If you have any questions, want to collaborate, or simply discuss programming, p
 [![Profile views](https://komarev.com/ghpvc/?username=Eduardoreisboattini&color=blueviolet&style=flat-square)](https://github.com/Eduardoreisboattini)
 [![Gists](https://badges.pufler.dev/gists/Eduardoreisboattini?style=flat-square&theme=gruvbox)](https://gist.github.com/Eduardoreisboattini)
 
+#
+
 [![Repos Badge](https://badges.pufler.dev/repos/Eduardoreisboattini?style=flat-square&theme=gruvbox)](https://github.com/Eduardoreisboattini?tab=repositories)
 [![Years Badge](https://badges.pufler.dev/years/Eduardoreisboattini?style=flat-square&theme=gruvbox)](https://github.com/Eduardoreisboattini)
 [![Updated Badge](https://badges.pufler.dev/updated/Eduardoreisboattini/Eduardoreisboattini?style=flat-square&theme=gruvbox)](https://github.com/Eduardoreisboattini/Eduardoreisboattini/commits)
 [![GitHub Gists](https://badges.pufler.dev/gists/Eduardoreisboattini?style=flat-square&theme=gruvbox)](https://gist.github.com/Eduardoreisboattini)
+
+#
 
 [![Forks Badge](https://img.shields.io/github/forks/Eduardoreisboattini/Eduardoreisboattini?style=flat-square&theme=gruvbox)](https://github.com/Eduardoreisboattini/Eduardoreisboattini/network/members)
 [![Stars Badge](https://img.shields.io/github/stars/Eduardoreisboattini/Eduardoreisboattini?style=flat-square&theme=gruvbox)](https://github.com/Eduardoreisboattini/Eduardoreisboattini/stargazers)
 [![Issues Badge](https://img.shields.io/github/issues/Eduardoreisboattini/Eduardoreisboattini?style=flat-square&theme=gruvbox)](https://github.com/Eduardoreisboattini/Eduardoreisboattini/issues)
 [![Pull Requests Badge](https://img.shields.io/github/issues-pr/Eduardoreisboattini/Eduardoreisboattini?style=flat-square&theme=gruvbox)](https://github.com/Eduardoreisboattini/Eduardoreisboattini/pulls)
 
+#
 
 [![Visits Badge](https://badges.pufler.dev/visits/Eduardoreisboattini/Eduardoreisboattini?style=flat-square&theme=gruvbox)](https://github.com/Eduardoreisboattini/Eduardoreisboattini)
+
+#
+
 [![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=flat-square&logo=open-source-initiative&logoColor=white&color=blueviolet&theme=gruvbox)](https://github.com/ellerbrock/open-source-badges/)
 
 <br>
