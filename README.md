@@ -53,6 +53,10 @@ Here are some ideas to get you started:
 #
 [![GitHub followers](https://img.shields.io/github/followers/Eduardoreisboattini?style=social)](https://github.com/Eduardoreisboattini)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ed_re_bo?style=social)](https://twitter.com/ed_re_bo)
+[![Facebook](./ICONS/facebook.png)](https://www.facebook.com/eboattini/)
+[![Discord](./ICONS/discord.png)](https://discord.gg/tgUv67yD)
+[![Instagram](./ICONS/instagram.png)](https://www.instagram.com/ed_re_bo)
+[![YouTube](./ICONS/youtube.png)](https://www.youtube.com/@KALISHworld/)
 
 
 
