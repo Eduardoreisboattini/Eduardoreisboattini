@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 #
 [![Reddit](https://img.shields.io/badge/Reddit-Join-orange?style=social&logo=reddit)](https://www.reddit.com/user/Ok-Illustrator-5372/)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-yellow?style=social&logo=stackoverflow)](https://stackoverflow.com/users/14016130/eduardo-reis-boattini)
-[![Twitch](https://img.shields.io/badge/Twitch-Follow-purple?style=social&logo=twitch)](https://www.twitch.tv/yourusername/)
+[![Twitch](https://img.shields.io/badge/Twitch-Follow-purple?style=social&logo=twitch)](https://www.twitch.tv/kalish_world)
 [![Patreon](https://img.shields.io/badge/Patreon-Support-orange?style=social&logo=patreon)](https://www.patreon.com/yourusername/)
 [![Dev.to](https://img.shields.io/badge/Dev.to-Profile-black?style=social&logo=dev.to)](https://dev.to/yourusername/)
 [![Medium](https://img.shields.io/badge/Medium-Follow-black?style=social&logo=medium)](https://medium.com/@yourusername/)
