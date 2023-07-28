@@ -338,7 +338,8 @@ This project reflects my dedication, determination, and love for programming.<br
 <br>
 <br>
 Happy coding!
-
+<br>
+<br>
 <footer>
     <div class="footer-container">
         <p>&copy; 2023 Eduardo Reis Boattini - Online Course. All rights reserved.</p>
