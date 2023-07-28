@@ -262,7 +262,7 @@ If you have any questions, want to collaborate, or simply discuss programming, p
 [![Express.js](https://img.shields.io/badge/express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![RESTful API](https://img.shields.io/badge/restful%20api-%23000000.svg?style=for-the-badge&logo=api&logoColor=white)](https://www.redhat.com/en/topics/api/what-is-a-rest-api)
 [![JSON](https://img.shields.io/badge/json-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/)
-
+#
 [![Sass](https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 [![Less](https://img.shields.io/badge/less-%231D365D.svg?style=for-the-badge&logo=less&logoColor=white)](http://lesscss.org/)
 [![Stylus](https://img.shields.io/badge/stylus-%23333333.svg?style=for-the-badge&logo=stylus&logoColor=white)](https://stylus-lang.com/)
@@ -273,7 +273,7 @@ If you have any questions, want to collaborate, or simply discuss programming, p
 [![Parcel](https://img.shields.io/badge/parcel-%23F7B93E.svg?style=for-the-badge&logo=parcel&logoColor=black)](https://parceljs.org/)
 [![WebAssembly](https://img.shields.io/badge/webassembly-%232666E1.svg?style=for-the-badge&logo=webassembly&logoColor=white)](https://webassembly.org/)
 [![Pug](https://img.shields.io/badge/pug-%23A86454.svg?style=for-the-badge&logo=pug&logoColor=white)](https://pugjs.org/)
-
+#
 [![EJS](https://img.shields.io/badge/ejs-%23F6EFEF.svg?style=for-the-badge&logo=ejs&logoColor=black)](https://ejs.co/)
 [![Handlebars](https://img.shields.io/badge/handlebars-%23F0772B.svg?style=for-the-badge&logo=handlebars&logoColor=black)](https://handlebarsjs.com/)
 [![D3.js](https://img.shields.io/badge/d3.js-%23F9A03C.svg?style=for-the-badge&logo=d3.js&logoColor=white)](https://d3js.org/)
@@ -281,7 +281,7 @@ If you have any questions, want to collaborate, or simply discuss programming, p
 [![GSAP](https://img.shields.io/badge/gsap-%2381BB28.svg?style=for-the-badge&logo=gsap&logoColor=white)](https://greensock.com/gsap/)
 [![Chart.js](https://img.shields.io/badge/chart.js-%23FF6384.svg?style=for-the-badge&logo=chart.js&logoColor=white)](https://www.chartjs.org/)
 [![Highcharts](https://img.shields.io/badge/highcharts-%23F24D0E.svg?style=for-the-badge&logo=highcharts&logoColor=white)](https://www.highcharts.com/)
-
+#
 [![Axios](https://img.shields.io/badge/axios-%232266C5.svg?style=for-the-badge&logo=axios&logoColor=white)](https://axios-http.com/)
 [![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
 [![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=rxjs&logoColor=white)](https://rxjs.dev/)
@@ -291,7 +291,7 @@ If you have any questions, want to collaborate, or simply discuss programming, p
 [![Enzyme](https://img.shields.io/badge/enzyme-%2383CA28.svg?style=for-the-badge&logo=enzyme&logoColor=white)](https://enzymejs.github.io/enzyme/)
 [![Cypress](https://img.shields.io/badge/cypress-%231721A1.svg?style=for-the-badge&logo=cypress&logoColor=white)](https://www.cypress.io/)
 [![Storybook](https://img.shields.io/badge/storybook-%23FF4785.svg?style=for-the-badge&logo=storybook&logoColor=white)](https://storybook.js.org/)
-
+#
 [![WebSockets](https://img.shields.io/badge/websockets-%23000000.svg?style=for-the-badge&logo=websockets&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 [![GraphQL](https://img.shields.io/badge/graphql-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
 [![Apollo GraphQL](https://img.shields.io/badge/apollo_graphql-%23323330.svg?style=for-the-badge&logo=apollo-graphql&logoColor=white)](https://www.apollographql.com/)
@@ -299,7 +299,6 @@ If you have any questions, want to collaborate, or simply discuss programming, p
 [![JSON](https://img.shields.io/badge/json-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/)
 [![XML](https://img.shields.io/badge/xml-%2319916A.svg?style=for-the-badge&logo=xml&logoColor=white)](https://www.w3.org/XML/)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
-
 
 ### Database Languages
 
@@ -356,7 +355,6 @@ If you have any questions, want to collaborate, or simply discuss programming, p
 [![VB.NET](https://img.shields.io/badge/vbnet-%2300599C.svg?style=for-the-badge&logo=dotnet&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/visual-basic/)
 [![VBA](https://img.shields.io/badge/vba-%23004488.svg?style=for-the-badge&logo=vba&logoColor=white)](https://docs.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office)
 
-#
 ### Full Stack Development Technologies
 
 [![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=bash&logoColor=white)](https://www.gnu.org/software/bash/)
