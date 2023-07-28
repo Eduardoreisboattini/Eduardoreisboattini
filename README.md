@@ -51,15 +51,12 @@ Here are some ideas to get you started:
 </p>
 
 #
-<center>
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?style=social&logo=github)](https://github.com/Eduardoreisboattini)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=social&logo=twitter)](https://twitter.com/ed_re_bo)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-orange?style=social&logo=instagram)](https://www.instagram.com/ed_re_bo)
 [![Facebook](https://img.shields.io/badge/Facebook-Like-blue?style=social&logo=facebook)](https://www.facebook.com/eboattini/)
 [![Discord](https://img.shields.io/badge/Discord-Join-purple?style=social&logo=discord)](https://discord.gg/tgUv67yD)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=social&logo=youtube)](https://www.youtube.com/@KALISHworld/)
-</center>
-
 
 <h2>Introduction</h2>
 
@@ -248,8 +245,8 @@ If you have any questions, want to collaborate, or simply discuss programming, p
   <img src="./ICONS/youtube.png" alt="YouTube" width="45" height="45">
 </a>
 
-# 💻Tech Stack
-## Front-end
+## 💻Tech Stack
+### Front-end
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -298,7 +295,7 @@ If you have any questions, want to collaborate, or simply discuss programming, p
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 
 
-## Database Languages
+### Database Languages
 
 [![SQLite](https://img.shields.io/badge/sqlite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
@@ -306,7 +303,7 @@ If you have any questions, want to collaborate, or simply discuss programming, p
 [![Oracle](https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/)
 
 
-## Server-Side Languages
+### Server-Side Languages
 
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
@@ -316,9 +313,9 @@ If you have any questions, want to collaborate, or simply discuss programming, p
 [![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 
-## Languages
+### Languages
 
-# 📊GitHub Stats :
+## 📊GitHub Stats :
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eduardoreisboattini&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true)](https://github.com/Eduardoreisboattini)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardoreisboattini&theme=gruvbox&hide_border=false&layout=compact)](https://github.com/Eduardoreisboattini)
