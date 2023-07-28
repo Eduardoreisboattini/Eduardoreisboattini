@@ -245,7 +245,7 @@ If you have any questions, want to collaborate, or simply discuss programming, p
   <img src="./ICONS/youtube.png" alt="YouTube" width="45" height="45">
 </a>
 
-### Tech Stack
+## Tech Stack
 #
 ### Front-end Development Technologies
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
