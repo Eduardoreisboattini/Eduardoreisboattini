@@ -50,6 +50,7 @@ Here are some ideas to get you started:
 </p>
 
 [Statistics](https://github-readme-stats.vercel.app/api?username=Eduardoreisboattini)
+![GitHub all releases](https://img.shields.io/github/downloads/Eduardoreisboattini/Eduardoreisboattini/total)
 
 
 <h2>Introduction</h2>
