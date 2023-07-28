@@ -253,49 +253,27 @@ Happy coding!
 
 # 📊GitHub Stats :
 
-![](https://github-readme-stats.vercel.app/api?username=Eduardoreisboattini&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardoreisboattini&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true)](https://github.com/YOUR_USERNAME)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact)](https://github.com/YOUR_USERNAME)
-[![Your Repository Stats](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_NAME&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true)](https://github.com/Eduardoreisboattini/Eduardoreisboattini)
-[![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=gruvbox&hide_border=false)](https://github.com/YOUR_USERNAME)
-[![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=gruvbox&row=2&column=3)](https://github.com/YOUR_USERNAME)
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eduardoreisboattini&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true)](https://github.com/Eduardoreisboattini)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardoreisboattini&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact)](https://github.com/Eduardoreisboattini)
+[![Your Repository Stats](https://github-readme-stats.vercel.app/api/pin/?username=Eduardoreisboattini&repo=YOUR_REPO_NAME&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true)](https://github.com/Eduardoreisboattini/Eduardoreisboattini)
+[![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Eduardoreisboattini&theme=gruvbox&hide_border=false)](https://github.com/Eduardoreisboattini)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Eduardoreisboattini&theme=gruvbox&row=2&column=3)](https://github.com/Eduardoreisboattini)
 [![Commits since last release](https://img.shields.io/github/commits-since/Eduardoreisboattini/Eduardoreisboattini/latest?include_prereleases&label=Commits%20since%20last%20release&style=flat-square)](https://github.com/Eduardoreisboattini/Eduardoreisboattini/releases)
-[![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)](https://github.com/YOUR_USERNAME)
-[![Gists](https://badges.pufler.dev/gists/YOUR_USERNAME&theme=gruvbox)](https://gist.github.com/YOUR_USERNAME)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)](https://github.com/YOUR_USERNAME)
+[![Profile views](https://komarev.com/ghpvc/?username=Eduardoreisboattini&color=blueviolet&style=flat-square)](https://github.com/Eduardoreisboattini)
+[![Gists](https://badges.pufler.dev/gists/Eduardoreisboattini&theme=gruvbox)](https://gist.github.com/Eduardoreisboattini)
+[![GitHub followers](https://img.shields.io/github/followers/Eduardoreisboattini?style=social)](https://github.com/Eduardoreisboattini)
 [![Twitter Follow](https://img.shields.io/twitter/follow/YOUR_TWITTER_USERNAME?style=social)](https://twitter.com/YOUR_TWITTER_USERNAME)
-[![Repos Badge](https://badges.pufler.dev/repos/YOUR_USERNAME&theme=gruvbox)](https://github.com/YOUR_USERNAME?tab=repositories)
-[![Years Badge](https://badges.pufler.dev/years/YOUR_USERNAME&theme=gruvbox)](https://github.com/YOUR_USERNAME)
+[![Repos Badge](https://badges.pufler.dev/repos/Eduardoreisboattini&theme=gruvbox)](https://github.com/Eduardoreisboattini?tab=repositories)
+[![Years Badge](https://badges.pufler.dev/years/Eduardoreisboattini&theme=gruvbox)](https://github.com/Eduardoreisboattini)
 [![Updated Badge](https://badges.pufler.dev/updated/Eduardoreisboattini/Eduardoreisboattini&theme=gruvbox)](https://github.com/Eduardoreisboattini/Eduardoreisboattini/commits)
-[![GitHub Gists](https://img.shields.io/github/gists/YOUR_USERNAME&theme=gruvbox)](https://gist.github.com/YOUR_USERNAME)
+[![GitHub Gists](https://img.shields.io/github/gists/Eduardoreisboattini&theme=gruvbox)](https://gist.github.com/Eduardoreisboattini)
 [![Forks Badge](https://badges.pufler.dev/forks/Eduardoreisboattini/Eduardoreisboattini&theme=gruvbox)](https://github.com/Eduardoreisboattini/Eduardoreisboattini/network/members)
 [![Stars Badge](https://badges.pufler.dev/stars/Eduardoreisboattini/Eduardoreisboattini&theme=gruvbox)](https://github.com/Eduardoreisboattini/Eduardoreisboattini/stargazers)
 [![Issues Badge](https://badges.pufler.dev/issues/Eduardoreisboattini/Eduardoreisboattini&theme=gruvbox)](https://github.com/Eduardoreisboattini/Eduardoreisboattini/issues)
 [![Pull Requests Badge](https://badges.pufler.dev/pr/Eduardoreisboattini/Eduardoreisboattini&theme=gruvbox)](https://github.com/Eduardoreisboattini/Eduardoreisboattini/pulls)
 [![Visits Badge](https://badges.pufler.dev/visits/Eduardoreisboattini/Eduardoreisboattini&theme=gruvbox)](https://github.com/Eduardoreisboattini/Eduardoreisboattini)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source&theme=gruvbox)](https://github.com/ellerbrock/open-source-badges/)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
         <!-- Footer section with additional links and information -->
 <footer>
