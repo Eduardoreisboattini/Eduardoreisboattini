@@ -256,6 +256,11 @@ If you have any questions, want to collaborate, or simply discuss programming, p
 [![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 [![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![RESTful API](https://img.shields.io/badge/restful%20api-%23000000.svg?style=for-the-badge&logo=api&logoColor=white)](https://www.redhat.com/en/topics/api/what-is-a-rest-api)
+[![JSON](https://img.shields.io/badge/json-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/)
 
 [![Sass](https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 [![Less](https://img.shields.io/badge/less-%231D365D.svg?style=for-the-badge&logo=less&logoColor=white)](http://lesscss.org/)
@@ -301,7 +306,7 @@ If you have any questions, want to collaborate, or simply discuss programming, p
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Oracle](https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/)
-
+[![GraphQL](https://img.shields.io/badge/graphql-%23E434AA.svg?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
 
 ### Server-Side Languages
 
@@ -324,7 +329,9 @@ If you have any questions, want to collaborate, or simply discuss programming, p
 [![COBOL](https://img.shields.io/badge/cobol-%234EA94B.svg?style=for-the-badge&logo=cobol&logoColor=white)](https://en.wikipedia.org/wiki/COBOL)
 [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 [![Delphi](https://img.shields.io/badge/delphi-%23EE1F35.svg?style=for-the-badge&logo=delphi&logoColor=white)](https://www.embarcadero.com/products/delphi)
+[![Elixir](https://img.shields.io/badge/elixir-%#4B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)](https://elixir-lang.org/)
 [![Fortran](https://img.shields.io/badge/fortran-%2371412B.svg?style=for-the-badge&logo=fortran&logoColor=white)](https://fortran-lang.org/)
+[![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
 [![Haskell](https://img.shields.io/badge/haskell-%235D4F85.svg?style=for-the-badge&logo=haskell&logoColor=white)](https://www.haskell.org/)
 [![IBM Basic](https://img.shields.io/badge/ibmbasic-%23006C92.svg?style=for-the-badge&logo=ibmbasic&logoColor=white)](https://en.wikipedia.org/wiki/IBM_BASIC)
 [![Java](https://img.shields.io/badge/java-%23E11E27.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
@@ -337,6 +344,7 @@ If you have any questions, want to collaborate, or simply discuss programming, p
 [![Pascal](https://img.shields.io/badge/pascal-%232A628F.svg?style=for-the-badge&logo=pascal&logoColor=white)](https://www.freepascal.org/)
 [![PEARL](https://img.shields.io/badge/pearl-%238C368C.svg?style=for-the-badge&logo=pearl&logoColor=white)](https://en.wikipedia.org/wiki/PEARL_(programming_language))
 [![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)](https://www.perl.org/)
+[![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 [![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/)
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
