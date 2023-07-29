@@ -97,7 +97,7 @@ Contains subdirectories for each programming language I have learned, where you 
 2. [Logic and Boolean Algebra](https://github.com/Eduardoreisboattini/GitHub_PROJECT/tree/main/%2300%2012.Logic%20and%20Boolean%20Algebra): This is fundamental to understanding how programming conditions and decisions work. You'll need to understand logical operators, truth tables, and how to construct logical expressions.
 
 3. [Algorithms and Data Structures](https://github.com/Eduardoreisboattini/GitHub_PROJECT/tree/main/%2300%2013.Algorithms%20and%20Data%20Structures): Building on your earlier knowledge of data structures, dive deeper into various algorithms like sorting, searching, graph algorithms, dynamic programming, etc. Knowing algorithmic complexity (Big O notation) is crucial for optimizing code.
-[
+
 4. [Design Patterns](https://github.com/Eduardoreisboattini/GitHub_PROJECT/tree/main/%2300%2014.Design%20Patterns): Learn about common design patterns that help you solve recurring problems in software design. These patterns improve code maintainability, reusability, and organization.
 
 5. [Software Development Principles](https://github.com/Eduardoreisboattini/GitHub_PROJECT/tree/main/%2300%2015.Software%20Development%20Principles): Familiarize yourself with concepts like DRY (Don't Repeat Yourself), KISS (Keep It Simple, Stupid), SOLID principles, and other best practices to write clean, efficient, and maintainable code.
