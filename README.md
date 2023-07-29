@@ -352,7 +352,6 @@ While this repository primarily serves as a personal log of my self-learning jou
 [![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)](https://www.scala-lang.org/)
 [![Shell Scripting](https://img.shields.io/badge/shellscript-%234EAA25.svg?style=for-the-badge&logo=shellscript&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)](https://swift.org/)
-[![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![VB.NET](https://img.shields.io/badge/vbnet-%2300599C.svg?style=for-the-badge&logo=dotnet&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/visual-basic/)
 [![VBA](https://img.shields.io/badge/vba-%23004488.svg?style=for-the-badge&logo=vba&logoColor=white)](https://docs.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office)
 
