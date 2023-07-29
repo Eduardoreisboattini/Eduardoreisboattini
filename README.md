@@ -368,25 +368,18 @@ While this repository primarily serves as a personal log of my self-learning jou
 [![Profile views](https://komarev.com/ghpvc/?username=Eduardoreisboattini&color=blueviolet&style=flat-square)](https://github.com/Eduardoreisboattini)
 
 #
-
 [![Repos Badge](https://badges.pufler.dev/repos/Eduardoreisboattini?style=flat-square&theme=gruvbox)](https://github.com/Eduardoreisboattini?tab=repositories)
 [![Years Badge](https://badges.pufler.dev/years/Eduardoreisboattini?style=flat-square&theme=gruvbox)](https://github.com/Eduardoreisboattini)
 [![Updated Badge](https://badges.pufler.dev/updated/Eduardoreisboattini/Eduardoreisboattini?style=flat-square&theme=gruvbox)](https://github.com/Eduardoreisboattini/Eduardoreisboattini/commits)
 [![GitHub Gists](https://badges.pufler.dev/gists/Eduardoreisboattini?style=flat-square&theme=gruvbox)](https://gist.github.com/Eduardoreisboattini)
-
-#
-
+<br>
 [![Forks Badge](https://img.shields.io/github/forks/Eduardoreisboattini/Eduardoreisboattini?style=flat-square&theme=gruvbox)](https://github.com/Eduardoreisboattini/Eduardoreisboattini/network/members)
 [![Stars Badge](https://img.shields.io/github/stars/Eduardoreisboattini/Eduardoreisboattini?style=flat-square&theme=gruvbox)](https://github.com/Eduardoreisboattini/Eduardoreisboattini/stargazers)
 [![Issues Badge](https://img.shields.io/github/issues/Eduardoreisboattini/Eduardoreisboattini?style=flat-square&theme=gruvbox)](https://github.com/Eduardoreisboattini/Eduardoreisboattini/issues)
 [![Pull Requests Badge](https://img.shields.io/github/issues-pr/Eduardoreisboattini/Eduardoreisboattini?style=flat-square&theme=gruvbox)](https://github.com/Eduardoreisboattini/Eduardoreisboattini/pulls)
-
-#
-
+<br>
 [![Visits Badge](https://badges.pufler.dev/visits/Eduardoreisboattini/Eduardoreisboattini?style=flat-square&theme=gruvbox)](https://github.com/Eduardoreisboattini/Eduardoreisboattini)
-
-#
-
+<br>
 [![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=flat-square&logo=open-source-initiative&logoColor=white&color=blueviolet&theme=gruvbox)](https://github.com/ellerbrock/open-source-badges/)
 
 <h2>Contact</h2>
