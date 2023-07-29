@@ -56,14 +56,20 @@ Here are some ideas to get you started:
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-orange?style=social&logo=instagram)](https://www.instagram.com/ed_re_bo)
 [![Facebook](https://img.shields.io/badge/Facebook-Like-blue?style=social&logo=facebook)](https://www.facebook.com/eboattini/)
 [![Discord](https://img.shields.io/badge/Discord-Join-purple?style=social&logo=discord)](https://discord.gg/tgUv67yD)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=social&logo=youtube)](https://www.youtube.com/@KALISHworld/)
+
 #
 [![Reddit](https://img.shields.io/badge/Reddit-Join-orange?style=social&logo=reddit)](https://www.reddit.com/user/Ok-Illustrator-5372/)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-yellow?style=social&logo=stackoverflow)](https://stackoverflow.com/users/14016130/eduardo-reis-boattini)
-[![Twitch](https://img.shields.io/badge/Twitch-Follow-purple?style=social&logo=twitch)](https://www.twitch.tv/kalish_world)
-[![Patreon](https://img.shields.io/badge/Patreon-Support-orange?style=social&logo=patreon)](https://www.patreon.com/KalishWorld)
 [![Dev.to](https://img.shields.io/badge/Dev.to-Profile-black?style=social&logo=dev.to)](https://dev.to/eduardoreisboattini/)
 [![Medium](https://img.shields.io/badge/Medium-Follow-black?style=social&logo=medium)](https://medium.com/@edureisboa/)
+
+#
+[![Twitch](https://img.shields.io/badge/Twitch-Follow-purple?style=social&logo=twitch)](https://www.twitch.tv/kalish_world)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=social&logo=youtube)](https://www.youtube.com/@KALISHworld/)
+
+#
+[![Patreon](https://img.shields.io/badge/Patreon-Support-orange?style=social&logo=patreon)](https://www.patreon.com/KalishWorld)
+
 
 <h2>Introduction</h2>
 
