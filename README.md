@@ -413,6 +413,7 @@ If you have any questions, want to collaborate, or simply discuss programming, p
   <img src="./ICONS/youtube.png" alt="YouTube" width="45" height="45">
 </a>
 <br>
+<br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?style=social&logo=github)](https://github.com/Eduardoreisboattini)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=social&logo=twitter)](https://twitter.com/ed_re_bo)
