@@ -206,36 +206,6 @@ To explore my progress and the projects I have completed, follow these steps:
 
 While this repository primarily serves as a personal log of my self-learning journey, I am open to collaborations and feedback.<br> If you have suggestions, improvements, or interesting project ideas, feel free to create an issue or submit a pull request. I appreciate any contributions that can help enhance my programming skills further.
 
-<h2>Contact</h2>
-If you have any questions, want to collaborate, or simply discuss programming, please feel free to reach out to me.<br> You can contact me via email or connect with me on LinkedIn.
-
-              
-<br>
-<br>
-
-<a href="https://www.linkedin.com/in/eduardoreisboattini/">
-  <img src="./ICONS/linkedin.png" alt="LinkedIn" width="45" height="45">
-</a>
-
-<a href="https://www.facebook.com/eboattini/">
-  <img src="./ICONS/facebook.png" alt="Facebook" width="45" height="45">
-</a>
-
-<a href="https://twitter.com/ed_re_bo">
-  <img src="./ICONS/twitter.png" alt="Twitter" width="45" height="45">
-</a>
-
-<a href="https://discord.gg/tgUv67yD">
-  <img src="./ICONS/discord.png" alt="Discord" width="45" height="45">
-</a>
-
-<a href="https://www.instagram.com/ed_re_bo">
-  <img src="./ICONS/instagram.png" alt="Instagram" width="45" height="45">
-</a>
-
-<a href="https://www.youtube.com/@KALISHworld/">
-  <img src="./ICONS/youtube.png" alt="YouTube" width="45" height="45">
-</a>
 
 ## Tech Stack
 
@@ -419,6 +389,36 @@ If you have any questions, want to collaborate, or simply discuss programming, p
 
 [![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=flat-square&logo=open-source-initiative&logoColor=white&color=blueviolet&theme=gruvbox)](https://github.com/ellerbrock/open-source-badges/)
 
+<h2>Contact</h2>
+If you have any questions, want to collaborate, or simply discuss programming, please feel free to reach out to me.<br> You can contact me via email or connect with me on LinkedIn.
+
+              
+<br>
+<br>
+
+<a href="https://www.linkedin.com/in/eduardoreisboattini/">
+  <img src="./ICONS/linkedin.png" alt="LinkedIn" width="45" height="45">
+</a>
+
+<a href="https://www.facebook.com/eboattini/">
+  <img src="./ICONS/facebook.png" alt="Facebook" width="45" height="45">
+</a>
+
+<a href="https://twitter.com/ed_re_bo">
+  <img src="./ICONS/twitter.png" alt="Twitter" width="45" height="45">
+</a>
+
+<a href="https://discord.gg/tgUv67yD">
+  <img src="./ICONS/discord.png" alt="Discord" width="45" height="45">
+</a>
+
+<a href="https://www.instagram.com/ed_re_bo">
+  <img src="./ICONS/instagram.png" alt="Instagram" width="45" height="45">
+</a>
+
+<a href="https://www.youtube.com/@KALISHworld/">
+  <img src="./ICONS/youtube.png" alt="YouTube" width="45" height="45">
+</a>
 
 #
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?style=social&logo=github)](https://github.com/Eduardoreisboattini)
