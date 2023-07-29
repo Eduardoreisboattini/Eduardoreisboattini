@@ -260,7 +260,7 @@ If you have any questions, want to collaborate, or simply discuss programming, p
 
 ## Tech Stack
 
-### Front-end Development Technologies
+### Front End Technologies
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -368,7 +368,7 @@ If you have any questions, want to collaborate, or simply discuss programming, p
 [![VB.NET](https://img.shields.io/badge/vbnet-%2300599C.svg?style=for-the-badge&logo=dotnet&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/visual-basic/)
 [![VBA](https://img.shields.io/badge/vba-%23004488.svg?style=for-the-badge&logo=vba&logoColor=white)](https://docs.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office)
 
-### Full Stack Development Technologies
+### Full Stack Technologies
 
 [![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
