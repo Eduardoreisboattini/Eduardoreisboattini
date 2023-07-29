@@ -425,11 +425,9 @@ If you have any questions, want to collaborate, or simply discuss programming, p
 [![Dev.to](https://img.shields.io/badge/Dev.to-Profile-black?style=social&logo=dev.to)](https://dev.to/eduardoreisboattini/)
 [![Medium](https://img.shields.io/badge/Medium-Follow-black?style=social&logo=medium)](https://medium.com/@edureisboa/)
 
-#
 [![Twitch](https://img.shields.io/badge/Twitch-Follow-purple?style=social&logo=twitch)](https://www.twitch.tv/kalish_world)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=social&logo=youtube)](https://www.youtube.com/@KALISHworld/)
 
-#
 [![Patreon](https://img.shields.io/badge/Patreon-Support-orange?style=social&logo=patreon)](https://www.patreon.com/KalishWorld)
 
 <br>
