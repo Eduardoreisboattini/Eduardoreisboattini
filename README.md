@@ -427,7 +427,6 @@ If you have any questions, want to collaborate, or simply discuss programming, p
 [![Facebook](https://img.shields.io/badge/Facebook-Like-blue?style=social&logo=facebook)](https://www.facebook.com/eboattini/)
 [![Discord](https://img.shields.io/badge/Discord-Join-purple?style=social&logo=discord)](https://discord.gg/tgUv67yD)
 
-#
 [![Reddit](https://img.shields.io/badge/Reddit-Join-orange?style=social&logo=reddit)](https://www.reddit.com/user/Ok-Illustrator-5372/)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-yellow?style=social&logo=stackoverflow)](https://stackoverflow.com/users/14016130/eduardo-reis-boattini)
 [![Dev.to](https://img.shields.io/badge/Dev.to-Profile-black?style=social&logo=dev.to)](https://dev.to/eduardoreisboattini/)
