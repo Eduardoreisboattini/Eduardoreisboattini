@@ -210,20 +210,23 @@ While this repository primarily serves as a personal log of my self-learning jou
 ## Tech Stack
 
 ### Front End Technologies
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
-[![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
-[![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
-[![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
-[![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Express.js](https://img.shields.io/badge/express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![RESTful API](https://img.shields.io/badge/restful%20api-%23000000.svg?style=for-the-badge&logo=api&logoColor=white)](https://www.redhat.com/en/topics/api/what-is-a-rest-api)
 [![JSON](https://img.shields.io/badge/json-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/)
+[![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
+[![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
+[![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
+[![Express.js](https://img.shields.io/badge/express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
+[![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![RESTful API](https://img.shields.io/badge/restful%20api-%23000000.svg?style=for-the-badge&logo=api&logoColor=white)](https://www.redhat.com/en/topics/api/what-is-a-rest-api)
+
 #
 [![Sass](https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 [![Less](https://img.shields.io/badge/less-%231D365D.svg?style=for-the-badge&logo=less&logoColor=white)](http://lesscss.org/)
@@ -245,7 +248,6 @@ While this repository primarily serves as a personal log of my self-learning jou
 [![Highcharts](https://img.shields.io/badge/highcharts-%23F24D0E.svg?style=for-the-badge&logo=highcharts&logoColor=white)](https://www.highcharts.com/)
 #
 [![Axios](https://img.shields.io/badge/axios-%232266C5.svg?style=for-the-badge&logo=axios&logoColor=white)](https://axios-http.com/)
-[![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
 [![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=rxjs&logoColor=white)](https://rxjs.dev/)
 [![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
 [![Mocha](https://img.shields.io/badge/mocha-%238D6848.svg?style=for-the-badge&logo=mocha&logoColor=white)](https://mochajs.org/)
@@ -257,10 +259,8 @@ While this repository primarily serves as a personal log of my self-learning jou
 [![WebSockets](https://img.shields.io/badge/websockets-%23000000.svg?style=for-the-badge&logo=websockets&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 [![GraphQL](https://img.shields.io/badge/graphql-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
 [![Apollo GraphQL](https://img.shields.io/badge/apollo_graphql-%23323330.svg?style=for-the-badge&logo=apollo-graphql&logoColor=white)](https://www.apollographql.com/)
-[![RESTful API](https://img.shields.io/badge/restful_api-%23000000.svg?style=for-the-badge&logo=restful-api&logoColor=white)](https://en.wikipedia.org/wiki/Representational_state_transfer)
-[![JSON](https://img.shields.io/badge/json-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/)
 [![XML](https://img.shields.io/badge/xml-%2319916A.svg?style=for-the-badge&logo=xml&logoColor=white)](https://www.w3.org/XML/)
-[![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
+
 
 ### Database Languages
 
@@ -273,49 +273,20 @@ While this repository primarily serves as a personal log of my self-learning jou
 ### Server-Side Languages
 
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/)
+[![Java](https://img.shields.io/badge/java-%23E11E27.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![C#](https://img.shields.io/badge/csharp-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
+[![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)](https://www.perl.org/)
+[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 
 ### NoSQL Databases
 
 [![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
-
-### Languages
-
-[![Assembly](https://img.shields.io/badge/assembly-%23F36223.svg?style=for-the-badge&logo=assembly&logoColor=white)](https://en.wikipedia.org/wiki/Assembly_language)
-[![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![C#](https://img.shields.io/badge/csharp-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![C++](https://img.shields.io/badge/cpp-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![Clipper](https://img.shields.io/badge/clipper-%23000000.svg?style=for-the-badge&logo=clipper&logoColor=white)](https://en.wikipedia.org/wiki/Clipper_(programming_language))
-[![Clojure](https://img.shields.io/badge/clojure-%23854D27.svg?style=for-the-badge&logo=clojure&logoColor=white)](https://clojure.org/)
-[![COBOL](https://img.shields.io/badge/cobol-%234EA94B.svg?style=for-the-badge&logo=cobol&logoColor=white)](https://en.wikipedia.org/wiki/COBOL)
-[![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
-[![Delphi](https://img.shields.io/badge/delphi-%23EE1F35.svg?style=for-the-badge&logo=delphi&logoColor=white)](https://www.embarcadero.com/products/delphi)
-[![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)](https://elixir-lang.org/)
-[![Fortran](https://img.shields.io/badge/fortran-%2371412B.svg?style=for-the-badge&logo=fortran&logoColor=white)](https://fortran-lang.org/)
-[![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
-[![Haskell](https://img.shields.io/badge/haskell-%235D4F85.svg?style=for-the-badge&logo=haskell&logoColor=white)](https://www.haskell.org/)
-[![IBM Basic](https://img.shields.io/badge/ibmbasic-%23006C92.svg?style=for-the-badge&logo=ibmbasic&logoColor=white)](https://en.wikipedia.org/wiki/IBM_BASIC)
-[![Java](https://img.shields.io/badge/java-%23E11E27.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![JScript](https://img.shields.io/badge/jscript-%23F0DB4F.svg?style=for-the-badge&logo=jscript&logoColor=black)](https://en.wikipedia.org/wiki/JavaScript)
-[![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
-[![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
-[![Matlab](https://img.shields.io/badge/matlab-%23007ACC.svg?style=for-the-badge&logo=matlab&logoColor=white)](https://www.mathworks.com/products/matlab.html)
-[![Object Pascal](https://img.shields.io/badge/objectpascal-%23EE1F35.svg?style=for-the-badge&logo=objectpascal&logoColor=white)](https://www.embarcadero.com/products/delphi)
-[![Objective-C](https://img.shields.io/badge/objectivec-%236330A1.svg?style=for-the-badge&logo=objective-c&logoColor=white)](https://developer.apple.com/documentation/objectivec)
-[![Pascal](https://img.shields.io/badge/pascal-%232A628F.svg?style=for-the-badge&logo=pascal&logoColor=white)](https://www.freepascal.org/)
-[![PEARL](https://img.shields.io/badge/pearl-%238C368C.svg?style=for-the-badge&logo=pearl&logoColor=white)](https://en.wikipedia.org/wiki/PEARL_(programming_language))
-[![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)](https://www.perl.org/)
-[![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
-[![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/)
-[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-[![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)](https://www.scala-lang.org/)
-[![Shell Scripting](https://img.shields.io/badge/shellscript-%234EAA25.svg?style=for-the-badge&logo=shellscript&logoColor=white)](https://www.gnu.org/software/bash/)
-[![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)](https://swift.org/)
-[![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![VB.NET](https://img.shields.io/badge/vbnet-%2300599C.svg?style=for-the-badge&logo=dotnet&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/visual-basic/)
-[![VBA](https://img.shields.io/badge/vba-%23004488.svg?style=for-the-badge&logo=vba&logoColor=white)](https://docs.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office)
 
 ### Full Stack Technologies
 
@@ -354,6 +325,36 @@ While this repository primarily serves as a personal log of my self-learning jou
 [![Notion](https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
 [![Google Meet](https://img.shields.io/badge/google%20meet-%234285F4.svg?style=for-the-badge&logo=googlemeet&logoColor=white)](https://meet.google.com/)
 [![Zoom](https://img.shields.io/badge/zoom-%232D8CFF.svg?style=for-the-badge&logo=zoom&logoColor=white)](https://zoom.us/)
+
+
+### Other Languages
+
+[![Assembly](https://img.shields.io/badge/assembly-%23F36223.svg?style=for-the-badge&logo=assembly&logoColor=white)](https://en.wikipedia.org/wiki/Assembly_language)
+[![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![C++](https://img.shields.io/badge/cpp-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Clipper](https://img.shields.io/badge/clipper-%23000000.svg?style=for-the-badge&logo=clipper&logoColor=white)](https://en.wikipedia.org/wiki/Clipper_(programming_language))
+[![Clojure](https://img.shields.io/badge/clojure-%23854D27.svg?style=for-the-badge&logo=clojure&logoColor=white)](https://clojure.org/)
+[![COBOL](https://img.shields.io/badge/cobol-%234EA94B.svg?style=for-the-badge&logo=cobol&logoColor=white)](https://en.wikipedia.org/wiki/COBOL)
+[![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
+[![Delphi](https://img.shields.io/badge/delphi-%23EE1F35.svg?style=for-the-badge&logo=delphi&logoColor=white)](https://www.embarcadero.com/products/delphi)
+[![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)](https://elixir-lang.org/)
+[![Fortran](https://img.shields.io/badge/fortran-%2371412B.svg?style=for-the-badge&logo=fortran&logoColor=white)](https://fortran-lang.org/)
+[![Haskell](https://img.shields.io/badge/haskell-%235D4F85.svg?style=for-the-badge&logo=haskell&logoColor=white)](https://www.haskell.org/)
+[![IBM Basic](https://img.shields.io/badge/ibmbasic-%23006C92.svg?style=for-the-badge&logo=ibmbasic&logoColor=white)](https://en.wikipedia.org/wiki/IBM_BASIC)
+[![JScript](https://img.shields.io/badge/jscript-%23F0DB4F.svg?style=for-the-badge&logo=jscript&logoColor=black)](https://en.wikipedia.org/wiki/JavaScript)
+[![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
+[![Matlab](https://img.shields.io/badge/matlab-%23007ACC.svg?style=for-the-badge&logo=matlab&logoColor=white)](https://www.mathworks.com/products/matlab.html)
+[![Object Pascal](https://img.shields.io/badge/objectpascal-%23EE1F35.svg?style=for-the-badge&logo=objectpascal&logoColor=white)](https://www.embarcadero.com/products/delphi)
+[![Objective-C](https://img.shields.io/badge/objectivec-%236330A1.svg?style=for-the-badge&logo=objective-c&logoColor=white)](https://developer.apple.com/documentation/objectivec)
+[![Pascal](https://img.shields.io/badge/pascal-%232A628F.svg?style=for-the-badge&logo=pascal&logoColor=white)](https://www.freepascal.org/)
+[![PEARL](https://img.shields.io/badge/pearl-%238C368C.svg?style=for-the-badge&logo=pearl&logoColor=white)](https://en.wikipedia.org/wiki/PEARL_(programming_language))
+[![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
+[![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)](https://www.scala-lang.org/)
+[![Shell Scripting](https://img.shields.io/badge/shellscript-%234EAA25.svg?style=for-the-badge&logo=shellscript&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)](https://swift.org/)
+[![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![VB.NET](https://img.shields.io/badge/vbnet-%2300599C.svg?style=for-the-badge&logo=dotnet&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/visual-basic/)
+[![VBA](https://img.shields.io/badge/vba-%23004488.svg?style=for-the-badge&logo=vba&logoColor=white)](https://docs.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office)
 
 ##  GitHub Stats
 
