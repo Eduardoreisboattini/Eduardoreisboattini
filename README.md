@@ -441,7 +441,7 @@ Happy coding!
 <br>
 <br>
 
-<p><a href="https://www.buymeacoffee.com/https://bmc.link/edureisboa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/edureisboa" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/edureisboa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/edureisboa" /></a></p><br><br>
 
 <footer>
     <div class="footer-container">
