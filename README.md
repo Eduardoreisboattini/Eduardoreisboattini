@@ -377,8 +377,6 @@ While this repository primarily serves as a personal log of my self-learning jou
 [![Issues Badge](https://img.shields.io/github/issues/Eduardoreisboattini/Eduardoreisboattini?style=flat-square&theme=gruvbox)](https://github.com/Eduardoreisboattini/Eduardoreisboattini/issues)
 [![Pull Requests Badge](https://img.shields.io/github/issues-pr/Eduardoreisboattini/Eduardoreisboattini?style=flat-square&theme=gruvbox)](https://github.com/Eduardoreisboattini/Eduardoreisboattini/pulls)
 <br>
-[![Visits Badge](https://badges.pufler.dev/visits/Eduardoreisboattini/Eduardoreisboattini?style=flat-square&theme=gruvbox)](https://github.com/Eduardoreisboattini/Eduardoreisboattini)
-<br>
 [![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=flat-square&logo=open-source-initiative&logoColor=white&color=blueviolet&theme=gruvbox)](https://github.com/ellerbrock/open-source-badges/)
 
 <h2>Contact</h2>
