@@ -5,7 +5,7 @@ These Terms of Service ("Terms") govern your use of the repositories hosted on t
 ## 1. Ownership and License
 
 1.1 Ownership:
-The Repository, including its content and intellectual property, is owned by Eduardo Reis Boattini and is protected by applicable copyright and other intellectual property laws.
+The Repository, including its content and intellectual property, is owned by Eduardo Reis Boattini and is protected by applicable copyright and other intellectual property laws. 
 
 1.2 License:
 Subject to your compliance with these Terms, we grant you a limited, non-exclusive, non-transferable license to access and use the Repository solely for your personal or internal business purposes. You may not modify, reproduce, distribute, or create derivative works based on the Repository or any part thereof without our express written consent.
