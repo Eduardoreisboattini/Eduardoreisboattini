@@ -2,7 +2,7 @@
 
 **Effective Date:** [Jun-24-2023]
 
-This Privacy Policy ("Policy") outlines how personal information is collected, used, and protected when you ("User" or "You") access and use the [Eduardo Reis Boattini - Online Course] website ("Website"), owned and operated by Eduardo Reis Boattini ("Owner" or "We" or "Us"). This Policy applies to the Website located at [github.com/eduardoreisboattini], its subdomains, and any other associated services or applications. 
+This Privacy Policy ("Policy") outlines how personal information is collected, used, and protected when you ("User" or "You") access and use the [Eduardo Reis Boattini - Online Course] website ("Website"), owned and operated by Eduardo Reis Boattini ("Owner" or "We" or "Us"). This Policy applies to the Website located at [github.com/eduardoreisboattini], its subdomains, and any other associated services or applications.
 
 Please read this Policy carefully to understand how we handle your personal information. By accessing or using the Website, you acknowledge that you have read and understood this Policy and consent to the collection, use, and disclosure of your personal information as described herein.
 
