@@ -356,8 +356,8 @@ While this repository primarily serves as a personal log of my self-learning jou
 
 ##  GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eduardoreisboattini&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true)](https://github.com/Eduardoreisboattini)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardoreisboattini&theme=gruvbox&hide_border=false&layout=compact)](https://github.com/Eduardoreisboattini)
+[![Your GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Eduardoreisboattini&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true)](https://github.com/Eduardoreisboattini)
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Eduardoreisboattini&theme=gruvbox&hide_border=false&layout=compact)](https://github.com/Eduardoreisboattini)
 [![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Eduardoreisboattini&theme=gruvbox&hide_border=false)](https://github.com/users/Eduardoreisboattini)
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Eduardoreisboattini&theme=gruvbox&row=2&column=3)](https://github.com/Eduardoreisboattini)
 
