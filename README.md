@@ -2,7 +2,7 @@
 📫 How to reach me: eduardo.reis@unifesp.br
 
 <!--
-**Eduardoreisboattini/Eduardoreisboattini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+**Eduardoreisboattini/Eduardoreisboattini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
