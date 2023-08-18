@@ -207,7 +207,8 @@ While this repository primarily serves as a personal log of my self-learning jou
 
 
 ## Tech Stack
-[![Download Visual Studio](https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg)](https://code.visualstudio.com/download)
+[![Visual Studio](https://img.shields.io/badge/Visual_Studio-Download-blue?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/download)
+
 
 ### Front End Technologies
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
