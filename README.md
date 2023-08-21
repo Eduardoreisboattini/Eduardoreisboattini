@@ -66,8 +66,6 @@ Through this project, I aim to document my progress, showcase the skills I have 
   <img src="./ICONS/youtube.png" alt="YouTube" width="90" height="90">
 </a>
 </p>
-<br>
-<br>
 <h2>Motivation</h2>
 The motivation behind this project is to demonstrate my dedication and passion for programming.<br>
 💪 By embarking on this self-learning journey, I have honed my skills in various programming languages and technologies. 
