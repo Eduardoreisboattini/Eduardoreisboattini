@@ -61,9 +61,11 @@ Welcome to the Self-Learning Programming Progress Tracker!<br>
 Through this project, I aim to document my progress, showcase the skills I have acquired, and provide insights into the projects I have completed.
 <br>
 <br>
+<div align="center">
 <a href="https://youtube.com/shorts/SC_N2loTato?si=zGh955uvdQ6RsRgp">
   <img src="./ICONS/youtube.png" alt="YouTube" width="45" height="45">
 </a>
+</div>
 <br>
 <br>
 <h2>Motivation</h2>
