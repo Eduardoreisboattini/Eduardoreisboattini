@@ -63,7 +63,7 @@ Through this project, I aim to document my progress, showcase the skills I have 
 <br>
 <p align="center">
 <a href="https://youtube.com/shorts/SC_N2loTato?si=zGh955uvdQ6RsRgp">
-  <img src="./ICONS/youtube.png" alt="YouTube" width="45" height="45">
+  <img src="./ICONS/youtube.png" alt="YouTube" width="90" height="90">
 </a>
 </p>
 <br>
