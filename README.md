@@ -63,6 +63,10 @@ Through this project, I aim to document my progress, showcase the skills I have 
 [![YouTube Video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://youtube.com/shorts/SC_N2loTato?si=zGh955uvdQ6RsRgp)
 
 
+<iframe width="560" height="315" src="https://youtube.com/shorts/SC_N2loTato?si=zGh955uvdQ6RsRgp" frameborder="0" allowfullscreen></iframe>
+
+
+
 <h2>Motivation</h2>
 The motivation behind this project is to demonstrate my dedication and passion for programming.<br>
 💪 By embarking on this self-learning journey, I have honed my skills in various programming languages and technologies. 
