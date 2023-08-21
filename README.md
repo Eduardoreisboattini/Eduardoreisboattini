@@ -60,6 +60,9 @@ Welcome to the Self-Learning Programming Progress Tracker!<br>
 🚀 This repository serves as a personal log of my journey in learning programming languages independently.
 Through this project, I aim to document my progress, showcase the skills I have acquired, and provide insights into the projects I have completed.
 
+[![YouTube Video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://youtube.com/shorts/SC_N2loTato?si=zGh955uvdQ6RsRgp)
+
+
 <h2>Motivation</h2>
 The motivation behind this project is to demonstrate my dedication and passion for programming.<br>
 💪 By embarking on this self-learning journey, I have honed my skills in various programming languages and technologies. 
