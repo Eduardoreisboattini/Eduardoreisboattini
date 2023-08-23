@@ -465,6 +465,12 @@ If you have any questions, want to collaborate, or simply discuss programming, p
 <br>
 <br>
 
+
+<details>
+<summary>
+More
+</summary>
+
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?style=social&logo=github)](https://github.com/Eduardoreisboattini)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=social&logo=twitter)](https://twitter.com/ed_re_bo)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-orange?style=social&logo=instagram)](https://www.instagram.com/ed_re_bo)
@@ -480,6 +486,8 @@ If you have any questions, want to collaborate, or simply discuss programming, p
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=social&logo=youtube)](https://www.youtube.com/@KALISHworld/)
 
 [![Patreon](https://img.shields.io/badge/Patreon-Support-orange?style=social&logo=patreon)](https://www.patreon.com/KalishWorld)
+
+</details>
 
 <br>
 <h2>Conclusion</h2>
