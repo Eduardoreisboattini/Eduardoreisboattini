@@ -227,10 +227,6 @@ While this repository primarily serves as a personal log of my self-learning jou
 
 
 ### Front End Technologies
-<details>
-<summary>
-Details
-</summary>
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -284,21 +280,13 @@ Details
 </details>
 
 ### Database Languages
-<details>
-<summary>
-Details
-</summary>
 [![SQLite](https://img.shields.io/badge/sqlite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Oracle](https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/)
 [![GraphQL](https://img.shields.io/badge/graphql-%23E434AA.svg?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
-</details>
+
 ### Server-Side Languages
-<details>
-<summary>
-Details
-</summary>
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/)
@@ -309,22 +297,13 @@ Details
 [![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)](https://www.perl.org/)
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
-</details>
 
 ### NoSQL Databases
-<details>
-<summary>
-Details
-</summary>
 [![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
-</details>
+
 
 ### Full Stack Technologies
-<details>
-<summary>
-Details
-</summary>
 [![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
 [![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)](https://webpack.js.org/)
@@ -336,7 +315,6 @@ Details
 [![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
 [![Travis CI](https://img.shields.io/badge/travis%20ci-%233EAAAF.svg?style=for-the-badge&logo=travisci&logoColor=white)](https://travis-ci.org/)
 [![Heroku](https://img.shields.io/badge/heroku-%234A154B.svg?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
-</details>
 
 #
 [![Amazon AWS](https://img.shields.io/badge/amazon%20aws-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
