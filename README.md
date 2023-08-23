@@ -231,14 +231,15 @@ While this repository primarily serves as a personal log of my self-learning jou
 </details>
 
 ## Tech Stack
+
 [![Visual Studio](https://img.shields.io/badge/Visual_Studio-Download-blue?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/download)
 
 
-### Front End Technologies
-
 <details>
 <summary>
-Details
+
+### Front End Technologies
+
 </summary>
 
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
@@ -294,11 +295,12 @@ Details
 
 </details>
 
-### Database Languages
 
 <details>
 <summary>
-Details
+
+### Database Languages
+
 </summary>
 
 [![SQLite](https://img.shields.io/badge/sqlite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
@@ -309,11 +311,13 @@ Details
 
 </details>
 
-### Server-Side Languages
+
 
 <details>
 <summary>
-Details
+
+### Server-Side Languages
+
 </summary>
 
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
@@ -329,9 +333,11 @@ Details
 
 </details>
 
-### NoSQL Databases<details>
+
 <summary>
-Details
+
+### NoSQL Databases<details>
+
 </summary>
 
 [![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
@@ -339,12 +345,15 @@ Details
 
 </details>
 
-### Full Stack Technologies
+
 
 <details>
 <summary>
-Details
+
+### Full Stack Technologies
+
 </summary>
+
 
 [![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
@@ -385,11 +394,13 @@ Details
 
 </details>
 
-### Other Languages
+
 
 <details>
 <summary>
-Details
+
+### Other Languages
+
 </summary>
 
 [![Assembly](https://img.shields.io/badge/assembly-%23F36223.svg?style=for-the-badge&logo=assembly&logoColor=white)](https://en.wikipedia.org/wiki/Assembly_language)
@@ -424,7 +435,9 @@ Details
 
 <details>
 <summary>
+
 Statistics for the GitHub
+
 </summary>
 
 
@@ -448,11 +461,13 @@ Statistics for the GitHub
 [![Updated Badge](https://badges.pufler.dev/updated/Eduardoreisboattini/Eduardoreisboattini?style=flat-square&theme=gruvbox)](https://github.com/Eduardoreisboattini/Eduardoreisboattini/commits)
 [![GitHub Gists](https://badges.pufler.dev/gists/Eduardoreisboattini?style=flat-square&theme=gruvbox)](https://gist.github.com/Eduardoreisboattini)
 <br>
+
 [![Forks Badge](https://img.shields.io/github/forks/Eduardoreisboattini/Eduardoreisboattini?style=flat-square&theme=gruvbox)](https://github.com/Eduardoreisboattini/Eduardoreisboattini/network/members)
 [![Stars Badge](https://img.shields.io/github/stars/Eduardoreisboattini/Eduardoreisboattini?style=flat-square&theme=gruvbox)](https://github.com/Eduardoreisboattini/Eduardoreisboattini/stargazers)
 [![Issues Badge](https://img.shields.io/github/issues/Eduardoreisboattini/Eduardoreisboattini?style=flat-square&theme=gruvbox)](https://github.com/Eduardoreisboattini/Eduardoreisboattini/issues)
 [![Pull Requests Badge](https://img.shields.io/github/issues-pr/Eduardoreisboattini/Eduardoreisboattini?style=flat-square&theme=gruvbox)](https://github.com/Eduardoreisboattini/Eduardoreisboattini/pulls)
 <br>
+
 [![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=flat-square&logo=open-source-initiative&logoColor=white&color=blueviolet&theme=gruvbox)](https://github.com/ellerbrock/open-source-badges/)
 
 </details>
