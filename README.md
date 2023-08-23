@@ -102,7 +102,10 @@ Details
 Contains subdirectories for each programming language I have learned, where you can find code snippets, exercises, and small projects demonstrating my proficiency in that particular language. Some of the languages I have acquired proficiency in include but are not limited to Python, JavaScript, Java, C++, and HTML/CSS. Each language directory within this repository provides examples and projects that demonstrate my knowledge and skills in that particular language.
 
 ### 📚 Advanced Topics
-
+<details>
+<summary>
+Details
+</summary>
 1. [Object-Oriented Programming (OOP)](https://github.com/Eduardoreisboattini/GitHub_PROJECT/tree/main/%2300%2011.Object-Oriented%20Programming%20OOP): OOP is a paradigm where you design programs as collections of objects, each with its data and behaviors. Understanding classes, objects, encapsulation, inheritance, and polymorphism are essential in OOP.
 
 2. [Logic and Boolean Algebra](https://github.com/Eduardoreisboattini/GitHub_PROJECT/tree/main/%2300%2012.Logic%20and%20Boolean%20Algebra): This is fundamental to understanding how programming conditions and decisions work. You'll need to understand logical operators, truth tables, and how to construct logical expressions.
@@ -112,6 +115,7 @@ Contains subdirectories for each programming language I have learned, where you 
 4. [Design Patterns](https://github.com/Eduardoreisboattini/GitHub_PROJECT/tree/main/%2300%2014.Design%20Patterns): Learn about common design patterns that help you solve recurring problems in software design. These patterns improve code maintainability, reusability, and organization.
 
 5. [Software Development Principles](https://github.com/Eduardoreisboattini/GitHub_PROJECT/tree/main/%2300%2015.Software%20Development%20Principles): Familiarize yourself with concepts like DRY (Don't Repeat Yourself), KISS (Keep It Simple, Stupid), SOLID principles, and other best practices to write clean, efficient, and maintainable code.
+</details>
 
 ### 💡 [Projects](https://github.com/Eduardoreisboattini/Projects)
 
