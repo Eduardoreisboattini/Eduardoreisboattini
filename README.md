@@ -98,9 +98,22 @@ Details
 7. [Version Control](https://github.com/Eduardoreisboattini/GitHub_PROJECT/tree/main/%2300%2007.Version%20Control): While not directly related to programming logic, learning version control systems like Git will greatly benefit you when collaborating with others and managing your codebase.
 </details>
 
+
+
+
 ### 📚 [Programming Languages](https://github.com/Eduardoreisboattini/Programming-Languages)
 
+
+<details>
+<summary>
+Details
+</summary>
+
 Contains subdirectories for each programming language I have learned, where you can find code snippets, exercises, and small projects demonstrating my proficiency in that particular language. Some of the languages I have acquired proficiency in include but are not limited to Python, JavaScript, Java, C++, and HTML/CSS. Each language directory within this repository provides examples and projects that demonstrate my knowledge and skills in that particular language.
+
+
+</details>
+
 
 ### 📚 Advanced Topics
 <details>
@@ -121,7 +134,14 @@ Details
 
 ### 💡 [Projects](https://github.com/Eduardoreisboattini/Projects)
 
+<details>
+<summary>
+Details
+</summary>
+
 Includes subdirectories for different projects I have completed, showcasing my ability to solve problems and create functional applications using various programming languages. Throughout my journey, I have undertaken several hands-on projects, ranging from small utilities and web applications to more complex algorithms and data structure implementations. The Projects directory includes a detailed description of each project, its purpose, and the technologies employed.
+
+</details>
 
 ### 📖 [Resources](https://github.com/Eduardoreisboattini/Resources)
 
@@ -435,9 +455,10 @@ While this repository primarily serves as a personal log of my self-learning jou
 ##  GitHub Stats
 
 <details>
+
 <summary>
 
-Statistics for the GitHub
+## Statistics for the GitHub
 
 </summary>
 
