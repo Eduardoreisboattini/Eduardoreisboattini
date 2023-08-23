@@ -296,6 +296,10 @@ Details
 
 ### Database Languages
 
+<details>
+<summary>
+Details
+</summary>
 
 [![SQLite](https://img.shields.io/badge/sqlite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
@@ -303,7 +307,15 @@ Details
 [![Oracle](https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/)
 [![GraphQL](https://img.shields.io/badge/graphql-%23E434AA.svg?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
 
+</details>
+
 ### Server-Side Languages
+
+<details>
+<summary>
+Details
+</summary>
+
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/)
@@ -315,10 +327,17 @@ Details
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 
-### NoSQL Databases
+</details>
+
+### NoSQL Databases<details>
+<summary>
+Details
+</summary>
+
 [![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 
+</details>
 
 ### Full Stack Technologies
 
