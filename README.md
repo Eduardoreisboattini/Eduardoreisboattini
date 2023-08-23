@@ -458,7 +458,7 @@ While this repository primarily serves as a personal log of my self-learning jou
 
 <summary>
 
-## Statistics for the GitHub
+# Statistics for the GitHub
 
 </summary>
 
