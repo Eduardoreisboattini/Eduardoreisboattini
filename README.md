@@ -399,7 +399,7 @@ Details
 
 <details>
 <summary>
-Details
+Statistics for the GitHub
 </summary>
 
 
