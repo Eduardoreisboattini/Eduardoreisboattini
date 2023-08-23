@@ -82,6 +82,7 @@ The repository is organized into the following directories:
 <summary>
 Details
 </summary>
+ 
 1. [Basic Programming Concepts](https://github.com/Eduardoreisboattini/GitHub_PROJECT/tree/main/%2300%2001.Basic%20Programming%20Concepts): Get familiar with variables, data types, operators, control structures (if-else, loops), functions, and basic I/O operations. These concepts apply to almost every programming language and are the backbone of any program.
 
 2. [Data Structures](https://github.com/Eduardoreisboattini/GitHub_PROJECT/tree/main/%2300%2002.Data%20Structures): Understanding data structures like arrays, linked lists, stacks, queues, trees, and graphs is essential. They help you organize and manipulate data efficiently, and they are crucial in designing algorithms.
