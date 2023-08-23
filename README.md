@@ -75,16 +75,10 @@ Through continuous learning, practice, and hands-on projects, I have deepened my
 The repository is organized into the following directories:
 
 
-
-### 📚 Programming Foundations
-
 <details>
-<summary>Click to expand</summary>
-
-This is the content of the expanded paragraph.
-
-</details>
-
+<summary>
+### 📚 Programming Foundations
+</summary>
 1. [Basic Programming Concepts](https://github.com/Eduardoreisboattini/GitHub_PROJECT/tree/main/%2300%2001.Basic%20Programming%20Concepts): Get familiar with variables, data types, operators, control structures (if-else, loops), functions, and basic I/O operations. These concepts apply to almost every programming language and are the backbone of any program.
 
 2. [Data Structures](https://github.com/Eduardoreisboattini/GitHub_PROJECT/tree/main/%2300%2002.Data%20Structures): Understanding data structures like arrays, linked lists, stacks, queues, trees, and graphs is essential. They help you organize and manipulate data efficiently, and they are crucial in designing algorithms.
@@ -98,6 +92,7 @@ This is the content of the expanded paragraph.
 6. [Recursion](https://github.com/Eduardoreisboattini/GitHub_PROJECT/tree/main/%2300%2006.%20Recursion): Understanding recursion is essential for solving problems that can be naturally solved by dividing them into smaller sub-problems.
 
 7. [Version Control](https://github.com/Eduardoreisboattini/GitHub_PROJECT/tree/main/%2300%2007.Version%20Control): While not directly related to programming logic, learning version control systems like Git will greatly benefit you when collaborating with others and managing your codebase.
+</details>
 
 ### 📚 [Programming Languages](https://github.com/Eduardoreisboattini/Programming-Languages)
 
