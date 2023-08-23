@@ -315,6 +315,12 @@ Details
 
 
 ### Full Stack Technologies
+
+<details>
+<summary>
+Details
+</summary>
+
 [![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
 [![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)](https://webpack.js.org/)
@@ -351,6 +357,8 @@ Details
 [![Google Meet](https://img.shields.io/badge/google%20meet-%234285F4.svg?style=for-the-badge&logo=googlemeet&logoColor=white)](https://meet.google.com/)
 [![Zoom](https://img.shields.io/badge/zoom-%232D8CFF.svg?style=for-the-badge&logo=zoom&logoColor=white)](https://zoom.us/)
 
+
+</details>
 
 ### Other Languages
 
