@@ -107,6 +107,7 @@ Contains subdirectories for each programming language I have learned, where you 
 <summary>
 Details
 </summary>
+ 
 1. [Object-Oriented Programming (OOP)](https://github.com/Eduardoreisboattini/GitHub_PROJECT/tree/main/%2300%2011.Object-Oriented%20Programming%20OOP): OOP is a paradigm where you design programs as collections of objects, each with its data and behaviors. Understanding classes, objects, encapsulation, inheritance, and polymorphism are essential in OOP.
 
 2. [Logic and Boolean Algebra](https://github.com/Eduardoreisboattini/GitHub_PROJECT/tree/main/%2300%2012.Logic%20and%20Boolean%20Algebra): This is fundamental to understanding how programming conditions and decisions work. You'll need to understand logical operators, truth tables, and how to construct logical expressions.
