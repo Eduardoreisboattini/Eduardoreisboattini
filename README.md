@@ -362,6 +362,11 @@ Details
 
 ### Other Languages
 
+<details>
+<summary>
+Details
+</summary>
+
 [![Assembly](https://img.shields.io/badge/assembly-%23F36223.svg?style=for-the-badge&logo=assembly&logoColor=white)](https://en.wikipedia.org/wiki/Assembly_language)
 [![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![C++](https://img.shields.io/badge/cpp-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
@@ -388,7 +393,15 @@ Details
 [![VB.NET](https://img.shields.io/badge/vbnet-%2300599C.svg?style=for-the-badge&logo=dotnet&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/visual-basic/)
 [![VBA](https://img.shields.io/badge/vba-%23004488.svg?style=for-the-badge&logo=vba&logoColor=white)](https://docs.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office)
 
+</details>
+
 ##  GitHub Stats
+
+<details>
+<summary>
+Details
+</summary>
+
 
 [![Your GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Eduardoreisboattini&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true)](https://github.com/Eduardoreisboattini)
 
@@ -416,6 +429,8 @@ Details
 [![Pull Requests Badge](https://img.shields.io/github/issues-pr/Eduardoreisboattini/Eduardoreisboattini?style=flat-square&theme=gruvbox)](https://github.com/Eduardoreisboattini/Eduardoreisboattini/pulls)
 <br>
 [![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=flat-square&logo=open-source-initiative&logoColor=white&color=blueviolet&theme=gruvbox)](https://github.com/ellerbrock/open-source-badges/)
+
+</details>
 
 <h2>Contact</h2>
 If you have any questions, want to collaborate, or simply discuss programming, please feel free to reach out to me.<br> You can contact me via email or connect with me on LinkedIn.
