@@ -230,6 +230,11 @@ While this repository primarily serves as a personal log of my self-learning jou
 
 ### Front End Technologies
 
+<details>
+<summary>
+Details
+</summary>
+
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -280,9 +285,12 @@ While this repository primarily serves as a personal log of my self-learning jou
 [![GraphQL](https://img.shields.io/badge/graphql-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
 [![Apollo GraphQL](https://img.shields.io/badge/apollo_graphql-%23323330.svg?style=for-the-badge&logo=apollo-graphql&logoColor=white)](https://www.apollographql.com/)
 [![XML](https://img.shields.io/badge/xml-%2319916A.svg?style=for-the-badge&logo=xml&logoColor=white)](https://www.w3.org/XML/)
+
 </details>
 
 ### Database Languages
+
+
 [![SQLite](https://img.shields.io/badge/sqlite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
