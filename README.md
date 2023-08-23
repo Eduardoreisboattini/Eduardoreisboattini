@@ -333,10 +333,11 @@ While this repository primarily serves as a personal log of my self-learning jou
 
 </details>
 
+<details>
 
 <summary>
 
-### NoSQL Databases<details>
+### NoSQL Databases
 
 </summary>
 
