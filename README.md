@@ -472,11 +472,6 @@ While this repository primarily serves as a personal log of my self-learning jou
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Eduardoreisboattini&theme=gruvbox&row=2&column=3)](https://github.com/Eduardoreisboattini)
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Eduardoreisboattini&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
 #
 
 [![Commits since last release](https://img.shields.io/github/commits-since/Eduardoreisboattini/Eduardoreisboattini/latest?include_prereleases&label=Commits%20since%20last%20release&style=flat-square)](https://github.com/Eduardoreisboattini/Eduardoreisboattini/releases)
